@@ -661,6 +661,11 @@ hash = "1710716a319809da6213f940352f6c73a22e519b4d133c3e98c21aa00bc225cf"
 metafile = true
 
 [[files]]
+file = "mods/malilib.pw.toml"
+hash = "79a780f068e2ed9dbc08107f4426244eb8f194b498daf161cab8fee6e1cd11de"
+metafile = true
+
+[[files]]
 file = "mods/mediaworks.pw.toml"
 hash = "c6e0a3bc2bb6c6f76df1e3e202c28709a91c737413821b573635cd3e0b84b387"
 metafile = true
@@ -808,6 +813,11 @@ metafile = true
 [[files]]
 file = "mods/revelationary.pw.toml"
 hash = "a20b4f1943fe21fe74993fa807573a04ae305b13384872c206b29673325532bc"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "386ea4b328a607e02e56a8080089ff409b7a307df72de595584f094a92c4c3fe"
 metafile = true
 
 [[files]]
