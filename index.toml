@@ -781,6 +781,11 @@ hash = "7489ffa88ea89b40e3cd4c6fcc34af2efaebc849699971cf673428aa42abc174"
 metafile = true
 
 [[files]]
+file = "mods/qsl.pw.toml"
+hash = "bc33470d5d8f27717a5c0ef799d22690b7088399cfa59a84a50d85216d9e5ac7"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "e10ac5a62e3aff6166459a1904ed95c60778c2d21d7d37210ddc6c48950e5604"
 metafile = true
