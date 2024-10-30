@@ -116,11 +116,6 @@ hash = "081797cb9b076763f0322ae5d6b4a345e203f9e9dbe7875c4b45cf585dbce212"
 metafile = true
 
 [[files]]
-file = "mods/building-wands.pw.toml"
-hash = "8e641ae6edb9c0dd8548525d37fdf5c5ea8e0155f4f7c9c5ba393136e7d3fe3b"
-metafile = true
-
-[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "87f339c783840fc692ce681b878bf683bee38b5ff5388a4151b5c14b9ecfd8aa"
 metafile = true
