@@ -1,0 +1,13 @@
+name = "KubeJS Additions"
+filename = "kubejsadditions-fabric-3.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BZemjxZb/versions/REwdqj8q/kubejsadditions-fabric-3.2.3.jar"
+hash-format = "sha512"
+hash = "cd8c78d648d26a065f98e1bdc62fdd562f94843713db3bb1ff69735a5c72ccf8d3a740ac5c61146c329fd84fe3c88b6fd48fbd0ce6dd2fefd460076291d65f6a"
+
+[update]
+[update.modrinth]
+mod-id = "BZemjxZb"
+version = "REwdqj8q"

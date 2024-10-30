@@ -1,0 +1,13 @@
+name = "Spirit"
+filename = "spirit-fabric-1.19.2-2.2.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b1LdOZlE/versions/UqO4a3u8/spirit-fabric-1.19.2-2.2.7.jar"
+hash-format = "sha512"
+hash = "32e7f773d057b0378d81afd8824cd967ce5ec31f4795d21c636d56fdb1fb5a1fafe14dbd98f8505a3595f733684a798788e17e2dfd9a0878e0b907807181446e"
+
+[update]
+[update.modrinth]
+mod-id = "b1LdOZlE"
+version = "UqO4a3u8"

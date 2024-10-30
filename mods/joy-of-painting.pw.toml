@@ -1,0 +1,13 @@
+name = "Joy of Painting"
+filename = "xercapaint-fabric-1.19.2-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YOs4tZea/versions/qFVE2XIB/xercapaint-fabric-1.19.2-1.0.3.jar"
+hash-format = "sha512"
+hash = "f554638929fa005c33965224f506353574ea1923735aad9bb2a8db0a642464a93eee05d290a89de95e5de2986e917960e11538a44bb9a8fd36781868f1210074"
+
+[update]
+[update.modrinth]
+mod-id = "YOs4tZea"
+version = "qFVE2XIB"

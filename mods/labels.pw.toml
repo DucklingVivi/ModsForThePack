@@ -1,0 +1,13 @@
+name = "Storage Labels"
+filename = "labels-1.19.2-1.10-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x6r7yhfi/versions/XUQfS59z/labels-1.19.2-1.10-fabric.jar"
+hash-format = "sha512"
+hash = "ecf8c402f32a8df04a927f718f9c6a6f1de74fef361703a247df0f1df51430880a5f6548bb59f1b374823dacad59c8b2fd5446138827e6c694ee832eb3f8ee3e"
+
+[update]
+[update.modrinth]
+mod-id = "x6r7yhfi"
+version = "XUQfS59z"

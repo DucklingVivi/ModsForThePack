@@ -1,0 +1,13 @@
+name = "Block of Sky"
+filename = "blockofsky-quilt-1.19.2-0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff746a3e8c56d356da54476bdb8871bb39900648"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4727400
+project-id = 757062

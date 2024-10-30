@@ -1,0 +1,13 @@
+name = "HexCircus"
+filename = "HexCircus 1.1.2 [FABRIC].jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/awUeK8jg/versions/BRPKDQLr/HexCircus%201.1.2%20%5BFABRIC%5D.jar"
+hash-format = "sha512"
+hash = "6304625180d61341af9d965843dd727e344631a662849d5a9bf9ac729743136d458c97b9053f7fd0c8221c1bb8f3e69022ed08ccaf48ca4386c2ca8691172a5d"
+
+[update]
+[update.modrinth]
+mod-id = "awUeK8jg"
+version = "BRPKDQLr"

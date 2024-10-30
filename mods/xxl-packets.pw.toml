@@ -1,0 +1,13 @@
+name = "XXL Packets"
+filename = "xlpackets-1.0.4-1.19.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SeCuopwJ/versions/xCDaTaTF/xlpackets-1.0.4-1.19.x.jar"
+hash-format = "sha512"
+hash = "990c38baa85cd32373eef86037b7e9308b2e551268b66f0ab023d8305acbe458f6821b9a72611cc916c30b73776827d343b283e1189757eacef9fedfe3a49dd0"
+
+[update]
+[update.modrinth]
+mod-id = "SeCuopwJ"
+version = "xCDaTaTF"

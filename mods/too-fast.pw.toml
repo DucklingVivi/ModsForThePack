@@ -1,0 +1,13 @@
+name = "Too Fast"
+filename = "toofast-1.19-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/w6JSkKSH/versions/UZVGWIjM/toofast-1.19-1.0.0.jar"
+hash-format = "sha512"
+hash = "cce99e25f4a0a8d7110cdec93aea36f58d641ac7902e2e31bd556d937d5916e3b7252eaa88198168acdcf455b5da29e906adae2145555b9d3c874ad133f02f79"
+
+[update]
+[update.modrinth]
+mod-id = "w6JSkKSH"
+version = "UZVGWIjM"

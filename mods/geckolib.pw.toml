@@ -1,0 +1,13 @@
+name = "GeckoLib"
+filename = "geckolib-quilt-1.19-3.1.41.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "010e78434664d9d8843cc05e15d0378a52a1811e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4407237
+project-id = 388172
