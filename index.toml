@@ -1069,3 +1069,223 @@ metafile = true
 file = "resourcepacks/stupid-wisp-shut-up.pw.toml"
 hash = "cdbfd66945387d82e42447e9c95ccdaca9dcf2936108c87c5a6ca6fe92d8b64f"
 metafile = true
+
+[[files]]
+file = "resources/assets/trinkets/lang/en_au.json"
+hash = "821b5f3e945ad5dc2b0df78e0ca0b49944735d129bd6cfe8c45c7dcfae01f1ff"
+
+[[files]]
+file = "resources/assets/trinkets/lang/en_ca.json"
+hash = "821b5f3e945ad5dc2b0df78e0ca0b49944735d129bd6cfe8c45c7dcfae01f1ff"
+
+[[files]]
+file = "resources/assets/trinkets/lang/en_gb.json"
+hash = "821b5f3e945ad5dc2b0df78e0ca0b49944735d129bd6cfe8c45c7dcfae01f1ff"
+
+[[files]]
+file = "resources/assets/trinkets/lang/en_nz.json"
+hash = "821b5f3e945ad5dc2b0df78e0ca0b49944735d129bd6cfe8c45c7dcfae01f1ff"
+
+[[files]]
+file = "resources/assets/trinkets/lang/en_us.json"
+hash = "821b5f3e945ad5dc2b0df78e0ca0b49944735d129bd6cfe8c45c7dcfae01f1ff"
+
+[[files]]
+file = "resources/assets/trinkets/textures/gui/slots/information.png"
+hash = "de9cf3470feefbe80c904591f81e797349583d6a3030cc937f7e63231a874f6c"
+
+[[files]]
+file = "resources/data/crafting/recipes/dispenser.json"
+hash = "c6b775156d9a7a218f256f48a787fd887fd3984d4462f114d0627b1ed366f863"
+
+[[files]]
+file = "resources/data/crafting/recipes/rope.json"
+hash = "0eb9eb53653ff58b43c817e5f8754e7f4c5c3d10adad7bfc628975e2da5981b9"
+
+[[files]]
+file = "resources/data/crafting/recipes/rope_from_safety_net.json"
+hash = "29b67a7d642919221e2b8d18c4dbc49da9cccc822a2316cb7a8071a8c960c130"
+
+[[files]]
+file = "resources/data/crafting/recipes/safety_net.json"
+hash = "d32f36fe355967a94c5eb6b1b383232c6f68961690b0ac2db141fa963a3447b3"
+
+[[files]]
+file = "resources/data/hexcasting/loot_tables/inject/scroll_loot_few.json"
+hash = "82c39ef8e975d7bb6c2646ef9f4523703a577408d3a0f2013d88501f63910443"
+
+[[files]]
+file = "resources/data/hexcasting/loot_tables/inject/scroll_loot_many.json"
+hash = "0dc5f100d485fc2514cfecfe2131599fbd8b8c493d697a87798730daf6512956"
+
+[[files]]
+file = "resources/data/hexcasting/loot_tables/inject/scroll_loot_some.json"
+hash = "8285307229627a988cee73b119225395c3fbb7e4324cdc3685fc5345c7fed3cd"
+
+[[files]]
+file = "resources/data/hexscrolldye/functions/load.mcfunction"
+hash = "19f12d4e5f500f17f31fa85b89a46528fcf22d6200d35d8d721828c260a2be09"
+
+[[files]]
+file = "resources/data/hexscrolldye/functions/scroll_dye.mcfunction"
+hash = "5d9c1da1365696598e43748ecfe6eae63b8d47f51015a323b29d9a35338aaae1"
+
+[[files]]
+file = "resources/data/hexscrolldye/functions/scroll_dye_check.mcfunction"
+hash = "1fb2849c3fabea0187019003cf7f27650741889affa804a9419ea3830f454a67"
+
+[[files]]
+file = "resources/data/hexscrolldye/functions/scroll_dye_outer_loop.mcfunction"
+hash = "90c1838417678632670c63e9747cbedd41aa9d4704117aebb2162992ae4ea386"
+
+[[files]]
+file = "resources/data/hexscrolldye/functions/scroll_find_dye.mcfunction"
+hash = "a3f5b6cee320f3e21777bc91f3344b7737150ee585069f5e6a8d21e3860e9319"
+
+[[files]]
+file = "resources/data/hexscrolldye/functions/scroll_find_undye.mcfunction"
+hash = "65d4904e3ee55cdde45216d50acb53102c8692bd55b815a56a2380cf73833009"
+
+[[files]]
+file = "resources/data/hexscrolldye/functions/scroll_undye_check.mcfunction"
+hash = "d1f60379ec2ec2f7a6d732c48747130391f4cc869195b4510e0411915788494e"
+
+[[files]]
+file = "resources/data/hexscrolldye/functions/scroll_undye_step.mcfunction"
+hash = "2ec2944f17bb9b9611af1c274a4eb6a1ee41f6478a5c93d384443bf98d368eb0"
+
+[[files]]
+file = "resources/data/hexscrolldye/functions/tick.mcfunction"
+hash = "3645f45a12c3fc2ca2e67cfa9c4a6d87aa023f925d8b8e521f17efb367f9c388"
+
+[[files]]
+file = "resources/data/hexscrolldye/functions/undye_scroll_undye.mcfunction"
+hash = "194dfc203a36a0879e1a18d642e181cea0800939f3c5da6888a526c624c96ab3"
+
+[[files]]
+file = "resources/data/milkstring/recipes/milkstring.json"
+hash = "8bbbf9d08563e997f2ebe5ec0f38765b49fcbeefa909df7f82653a452e293b5e"
+
+[[files]]
+file = "resources/data/minecraft/loot_tables/entities/ender_dragon.json"
+hash = "476a54c26b704fe05cdece446ffe1e8f0931d5d8ad0cfa67f5868f9306a4c38a"
+
+[[files]]
+file = "resources/data/minecraft/loot_tables/entities/evoker.json"
+hash = "75b5a3c31c0d8ca3b9f5f11b4becebcfb7a98803b74073945bd18e8c60aa5c5f"
+
+[[files]]
+file = "resources/data/minecraft/tags/functions/load.json"
+hash = "4f3b80e1aed73e1fdfbd7f06115ea706bb73d8eee38d958e25bd60e3e3d8443b"
+
+[[files]]
+file = "resources/data/minecraft/tags/functions/tick.json"
+hash = "65bb49fd90f4e01f0c54fd98f87ef6b8ef72e12a04d31eb66c407c341847b4e5"
+
+[[files]]
+file = "resources/data/railways/recipes/sequenced_assembly/track_hexcasting_edified.json"
+hash = "8e42684fb22bd5ba7c42e77808efc4f37d4a33043c93bee45688c9615ce8b171"
+
+[[files]]
+file = "resources/data/reliccrafting/recipes/runic_altar/flugel_eye.json"
+hash = "b996c076b3284de2a439332f0cc0067fc68472fe67cad5d787ed3393f1a97e6e"
+
+[[files]]
+file = "resources/data/reliccrafting/recipes/runic_altar/infinite_fruit.json"
+hash = "13d005aac7425b856f5b41946d59566b8d6f8667d94b0a1a9138d33e043381ea"
+
+[[files]]
+file = "resources/data/reliccrafting/recipes/runic_altar/king_key.json"
+hash = "5690e9206f31eb56eb0d8b5f333915db7803f3612ab234fcd3002a9f61ad6676"
+
+[[files]]
+file = "resources/data/reliccrafting/recipes/runic_altar/loki_ring.json"
+hash = "152d1e0578e6f1edd15f26e42b3b719ae064a25affb5bc91294303fd2689e95b"
+
+[[files]]
+file = "resources/data/reliccrafting/recipes/runic_altar/odin_ring.json"
+hash = "9292c634e25d8ecf80f237d991e4e2fc2e695fd4281e7209c990674aa2101538"
+
+[[files]]
+file = "resources/data/reliccrafting/recipes/runic_altar/thor_ring.json"
+hash = "2f4a70904049669e5857146fb19335e987dd46e23ee5939578b6bcfe655ad443"
+
+[[files]]
+file = "resources/data/reliccrafting/recipes/terra_plate/flugel_eye.json"
+hash = "f024b6319e45321b36ce9227d26ce145dc217f128d426068e0652538d7906854"
+
+[[files]]
+file = "resources/data/reliccrafting/recipes/terra_plate/infinite_fruit.json"
+hash = "df49d2ad9cf93a27c5c4f5285a500d0b1fc1f7f38580ed0a00b4089df9c61316"
+
+[[files]]
+file = "resources/data/reliccrafting/recipes/terra_plate/king_key.json"
+hash = "825e95a0da5782658e7b95c322a9a747db1f6bc1534625d2e6427962a2e48ad3"
+
+[[files]]
+file = "resources/data/reliccrafting/recipes/terra_plate/loki_ring.json"
+hash = "b3b7404d9b3c76e05fa9b58e9c0c92c76e630a9b7cf17d37b1e479777c69867a"
+
+[[files]]
+file = "resources/data/reliccrafting/recipes/terra_plate/odin_ring.json"
+hash = "8e06d170d9f23fc0285382fdeeb6e46c67dda54c2bb309b76eeab9bad7a0ac7c"
+
+[[files]]
+file = "resources/data/reliccrafting/recipes/terra_plate/thor_ring.json"
+hash = "e601db03f224c5d3e1787c4dd0139faca3223c5811f09fa46c2ff3fc1fdab62e"
+
+[[files]]
+file = "resources/data/trinkets/entities/enable_slots.json"
+hash = "8b6a76a52fd97196f9fc199c3e1d45885aec16421fd3f233739954f8214b7588"
+
+[[files]]
+file = "resources/data/trinkets/slots/head/information.json"
+hash = "dbbf0e5767dcf58b0ce5caebab13d24523e9793472e0a8d3cfa8b8f159d33f54"
+
+[[files]]
+file = "resources/data/trinkets/tags/items/head/information.json"
+hash = "87ccae38d3cb57d6a18db07ef03b5434efd9073c02a6de0a952fd9cbded64b1e"
+
+[[files]]
+file = "scripts/common/phials.zs"
+hash = "1068058d9b32c01fa72017517227a284d1489e76c3763e9744cec85f7361bc33"
+
+[[files]]
+file = "scripts/recipes/bread_blocks.zs"
+hash = "136a12f25a524d24fdbecef7f796b892e9bf3a1704dc1e8a7b9a405210cf4dd4"
+
+[[files]]
+file = "scripts/recipes/chests.zs"
+hash = "052a1a6093432547b9631d5cc03aff51ebd9a6ace35e87906ce822ac70eb500f"
+
+[[files]]
+file = "scripts/recipes/cutting.zs"
+hash = "8bc5a8410864c5aeba5c7f21c428811c98722e886752c66b9693c42a59a6e5e0"
+
+[[files]]
+file = "scripts/recipes/lootr.zs"
+hash = "8167db5f2dd0dd5a6282c480e91d7299cfabcdf886a1952ee7eba527e34f046d"
+
+[[files]]
+file = "scripts/recipes/merge_phials.zs"
+hash = "4344d643d816b732f478e75b5cf3281125b61ddfe9bea184915cdc113a68bced"
+
+[[files]]
+file = "scripts/recipes/other.zs"
+hash = "0e92b712af6e37f91f354c87324d0210bdce9a0da7cb02776b37ce52a5b520c2"
+
+[[files]]
+file = "scripts/recipes/reverse_slabs.zs"
+hash = "70c1ef15bc5074dee7e023a5b8a87a44a3a721de5330bb4ef8eb8427aaf68ab4"
+
+[[files]]
+file = "scripts/recipes/turtle_phial.zs"
+hash = "3a0b7f664a4120799e85088db1f42afb270a50da20e3f789700979a0086a8198"
+
+[[files]]
+file = "scripts/tags.zs"
+hash = "01d0bb97dba4627009dd93e18d47e63e8535cbb65bbb00201abca55b488b3abc"
+
+[[files]]
+file = "scripts/villagers.zs"
+hash = "ae063d417a3244a538915d8edbae895d2ccb54e6dba2e314eeb44b7746fc4cee"
