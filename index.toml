@@ -76,6 +76,11 @@ hash = "80cd90725021fac73665f00b428867131b8819c2aa569f67c0940d82300e3046"
 metafile = true
 
 [[files]]
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "50e75e3d68dd5529ffaf346d3a6a59ab548df5f23321cf56436b963c15376d38"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "a7f42bbebf72de35b2842ec54a09d08ee7a5ec035266740c71d295e15b491ea6"
 metafile = true
@@ -158,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/clickthrough.pw.toml"
 hash = "e91545546efbd41450b6a8f726ad6e73297358146037cd529e2c0129eae641b4"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "68d9c6e0943edf3cdb03a487c9791beaccc75f70cf2e942175f119303caa73a7"
 metafile = true
 
 [[files]]
@@ -586,6 +596,11 @@ hash = "40682ba637d149b8f75e2e7be1c8b177da4d31ad53db81b0a05f88a82dfdb22d"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "674064d3622274c6ebf5662d934a8cf7226243e37cb4305d4eaa49f43c053b20"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-additions.pw.toml"
 hash = "d779e42fe7368ddb8f70899ca12419960b64ec5a4e5872e4eb1a2337cfd56104"
 metafile = true
@@ -763,11 +778,6 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "2320c7dd0c1741da3943a5f0932a688b5323360b895e26a398c4b4a9246be67b"
-metafile = true
-
-[[files]]
-file = "mods/porting_lib.pw.toml"
-hash = "1044a7d818bec899677966697b389c9440c0dace56853ad0a79399a75d74036d"
 metafile = true
 
 [[files]]
