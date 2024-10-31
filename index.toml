@@ -1049,3 +1049,8 @@ metafile = true
 file = "mods/yigd.pw.toml"
 hash = "0cb6b5905b1b85e913228d510f049d7565387cc84181343d5a4a74fe5fb8cc26"
 metafile = true
+
+[[files]]
+file = "mods/zenith.pw.toml"
+hash = "2f4a1f345b2e260634d99b9a8eb11a443d6da53a1f1546869f5b37ddae2de34a"
+metafile = true
