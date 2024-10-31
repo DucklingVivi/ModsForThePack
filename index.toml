@@ -1066,11 +1066,6 @@ hash = "0cb6b5905b1b85e913228d510f049d7565387cc84181343d5a4a74fe5fb8cc26"
 metafile = true
 
 [[files]]
-file = "resourcepacks/stupid-wisp-shut-up.pw.toml"
-hash = "cdbfd66945387d82e42447e9c95ccdaca9dcf2936108c87c5a6ca6fe92d8b64f"
-metafile = true
-
-[[files]]
 file = "resources/assets/trinkets/lang/en_au.json"
 hash = "821b5f3e945ad5dc2b0df78e0ca0b49944735d129bd6cfe8c45c7dcfae01f1ff"
 
