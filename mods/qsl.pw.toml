@@ -3,11 +3,11 @@ filename = "qfapi-4.0.0-beta.30_qsl-3.0.0-beta.29_fapi-0.77.0_mc-1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3bb04f8df3e69d4ce84fa7a63f6822c2547ba280"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/aaucrsnr/qfapi-4.0.0-beta.30_qsl-3.0.0-beta.29_fapi-0.77.0_mc-1.19.2.jar"
+hash-format = "sha512"
+hash = "05b0255ec818007b4c43ab285f5f2b71842ce379d71e946fd0726cb40fbdfea1b24f25736d193b28af8e4ab95adc97bf491ca0f3907f7b6b0e6e06b5c688ff1e"
 
 [update]
-[update.curseforge]
-file-id = 5120942
-project-id = 634179
+[update.modrinth]
+mod-id = "qvIfYCYJ"
+version = "aaucrsnr"

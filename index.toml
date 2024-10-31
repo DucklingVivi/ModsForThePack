@@ -777,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "e6d455afe0bc630965481b1a35a8acff4b4a0eaf1844aa30b859735cf05be5d3"
+hash = "bc33470d5d8f27717a5c0ef799d22690b7088399cfa59a84a50d85216d9e5ac7"
 metafile = true
 
 [[files]]
@@ -888,6 +888,11 @@ metafile = true
 [[files]]
 file = "mods/structory.pw.toml"
 hash = "fde0a40e5f781de96bdec92970705140341e60e9e266fe49f7ae7b2e3df99466"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "5f553ef531567fba961f33a8eb926467f3b9d127adc25df458e73d2919eca721"
 metafile = true
 
 [[files]]
