@@ -11,3 +11,5 @@ hash = "97a5ccd0249f7688dc879d32e5b1fb4603d0c1c6017e6ca9accd92d7367aba7e"
 [versions]
 minecraft = "1.19.2"
 quilt = "0.26.0"
+
+no-internal-hashes = false
