@@ -1,12 +1,12 @@
 name = "Mods For The Pack"
 author = "Vivian"
-version = "1.1.18"
+version = "1.1.19"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3efa1ec0d6181c3f903e23507fc98ff9100f745eb1d77a41dd3c6b66a3c1402a"
+hash = "644a7d26e705ff46f0c2647381a4c3ae4a3264afa6a9abdfe6e2b90d9974037e"
 
 [versions]
 minecraft = "1.19.2"
