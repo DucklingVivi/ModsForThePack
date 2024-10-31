@@ -281,8 +281,13 @@ hash = "a7fcdc0d6b9ef5ce1fa70e01797f075aff47dc7ecf4ded2510096a5dbf7072a2"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "8a35f4035a8e2d64f31efbc246b7b65c654ba0b10bfab7299089166e872abc35"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
-hash = "5a56ac23988672453a7079d036467642d63e2db7aee45c1e13f97c44e0b69d9a"
+hash = "5a94fea4bdef52fe558324182d117912fc090e0ee9f184e06759b73abf6f3621"
 metafile = true
 
 [[files]]
@@ -622,17 +627,17 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-brewery.pw.toml"
-hash = "8ecb8867a3bd40e86863160756312582120af59367cc66101d01590ddabb69ab"
+hash = "37fd65564269a26d6b5f66f7003b53fe25fd8079cbf6d0e05052bc0e6568007b"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-meadow.pw.toml"
-hash = "e4c88c8f7119dc3f4b1c3c3d1555e5f1bd0bdbe7cabffe94d5ac2e20f1a4e408"
+hash = "66dd0b05b0923519d6ba83a38e9d2e186b448b60b81f9c1224f7dd7bcf6f2193"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
-hash = "84916e79a12f5ff2b7a144e6d81eb0bd0af331ccdf4b43de7c60a3e91b89dda6"
+hash = "8179ed913158a85ff4bdf6789cd499719294857bf2c777731021f77bda60ddb5"
 metafile = true
 
 [[files]]
@@ -917,7 +922,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "5f553ef531567fba961f33a8eb926467f3b9d127adc25df458e73d2919eca721"
+hash = "2340b3bbcd3c9760b0173e8d3c2ecdc9a476e360cf1133c077a151605f69e0dd"
 metafile = true
 
 [[files]]
