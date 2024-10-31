@@ -1016,16 +1016,6 @@ hash = "030fdb97d009b8b5e037a1342b20f6f565cf1eeab341e2227928ccfd6aa051d4"
 metafile = true
 
 [[files]]
-file = "mods/tooltip-scroll.pw.toml"
-hash = "3053778cc13e0202fa57eb5b63153f39bb4e108fd86eb0dee333ac49e519f2bc"
-metafile = true
-
-[[files]]
-file = "mods/tooltipfix.pw.toml"
-hash = "9f596d728e7466308e4cd7010a0c158f77eae0f14f5d3d6e4567e9a992f51b24"
-metafile = true
-
-[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "7e91f244083ede2f1069fabad2ad8f8811880ad725af4a4d2dca29a9d08592b2"
 metafile = true
