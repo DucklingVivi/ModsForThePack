@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania-fabric.pw.toml"
-hash = "59833032cf16384bbdd04d15d0955e5b0797a51eb48c6a468c1fb3d1320be779"
+hash = "9832f617bb01d31f806aec9f711a008a75883deb2d17e000648b51ddecdb871b"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "2644241d528f712c92d5dcaeb93acd85991a40e40403b5db6d9fa8f166b527b7"
+hash = "802f47f9cdbadb2b7a7bcca278d0accce43c6549d09b61096bce89e501e8bcf1"
 metafile = true
 
 [[files]]
@@ -233,11 +233,6 @@ metafile = true
 [[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "24151ebee36b1cf975a56a182fb6eea50fe92bf5f6d963c6fd4e6260a9e3e413"
-metafile = true
-
-[[files]]
-file = "mods/create-railways-navigator.pw.toml"
-hash = "44efeef3383b1a68648a379532cab27b89d2661ae3e8aefcaab5f77697eb6809"
 metafile = true
 
 [[files]]
@@ -427,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "febe79b541e162e6789eedbe66a4ecf00fe66d9838f23c3bc3d3c1683704f910"
+hash = "337f8851d911a0c44d0df1268582a4a94cd69c5b4bc3ccea430f5af36b082bd0"
 metafile = true
 
 [[files]]
@@ -638,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/light-overlay.pw.toml"
 hash = "88e18943db1b5fa25e0d0f0879bd1743fd8dcebe708b5591c58e38319c243074"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "f1ba5a88acf118f60ae2a7aa9b86eb5dfdbd18958f1e4856425000e4680cb39e"
 metafile = true
 
 [[files]]
@@ -1022,7 +1022,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "f06f11fe26565f9d467d6f12a18b5f70795c94633afd77c669185110620382e6"
+hash = "d70d2e919cb1679bc1ca2adf81482a6f2bc142fedd23e9579e58f6b8d19e475a"
 metafile = true
 
 [[files]]
