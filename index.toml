@@ -626,11 +626,6 @@ hash = "8ecb8867a3bd40e86863160756312582120af59367cc66101d01590ddabb69ab"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-meadow.pw.toml"
-hash = "e4c88c8f7119dc3f4b1c3c3d1555e5f1bd0bdbe7cabffe94d5ac2e20f1a4e408"
-metafile = true
-
-[[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "84916e79a12f5ff2b7a144e6d81eb0bd0af331ccdf4b43de7c60a3e91b89dda6"
 metafile = true
