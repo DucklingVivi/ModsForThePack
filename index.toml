@@ -281,6 +281,11 @@ hash = "8a35f4035a8e2d64f31efbc246b7b65c654ba0b10bfab7299089166e872abc35"
 metafile = true
 
 [[files]]
+file = "mods/do-api.pw.toml"
+hash = "5a56ac23988672453a7079d036467642d63e2db7aee45c1e13f97c44e0b69d9a"
+metafile = true
+
+[[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "c1a717f784ee2b86037bbedd58bc0281f03a880a16df6d6b1ab23d983b9b0deb"
 metafile = true
