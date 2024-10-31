@@ -281,11 +281,6 @@ hash = "a7fcdc0d6b9ef5ce1fa70e01797f075aff47dc7ecf4ded2510096a5dbf7072a2"
 metafile = true
 
 [[files]]
-file = "mods/do-api.pw.toml"
-hash = "5a56ac23988672453a7079d036467642d63e2db7aee45c1e13f97c44e0b69d9a"
-metafile = true
-
-[[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "c1a717f784ee2b86037bbedd58bc0281f03a880a16df6d6b1ab23d983b9b0deb"
 metafile = true
@@ -618,16 +613,6 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "694c91d6f341271b0b071a814fb64defbd52af1b228cb593595836c0d9f68151"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-brewery.pw.toml"
-hash = "8ecb8867a3bd40e86863160756312582120af59367cc66101d01590ddabb69ab"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-vinery.pw.toml"
-hash = "84916e79a12f5ff2b7a144e6d81eb0bd0af331ccdf4b43de7c60a3e91b89dda6"
 metafile = true
 
 [[files]]
