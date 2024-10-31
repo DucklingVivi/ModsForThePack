@@ -6,11 +6,6 @@ hash = "4cf9caf335c87b4c4e8338006534ebc112a63b310c518807e13fbcfead166e05"
 metafile = true
 
 [[files]]
-file = "mods/advanced-genetics.pw.toml"
-hash = "30996547764dd2468a9a45a8036729048122a66a5c30544c52f6e0183c4db9e1"
-metafile = true
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "f1a96a0fedba5714ee65167abd8b78f29c06956c692c988e819aee01fe3a95c2"
 metafile = true
