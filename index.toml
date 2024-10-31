@@ -146,6 +146,11 @@ hash = "91b5664b7e6c111b27466d7823e3e7ca808b32cc3bed705419370672a693e31f"
 metafile = true
 
 [[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "25e866caf40ded868b100f887095ea25629e46eb4152477bbc7c7bec53ad5991"
+metafile = true
+
+[[files]]
 file = "mods/cleancut.pw.toml"
 hash = "a689e37c47efcd504077b271a0f3dbe93fa96244c36a91df50e7da53f7e2d034"
 metafile = true
@@ -168,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "d7a07c3fbf3dacd822633fbc8309bd96b8e41b8167eed9842bd1e955c05fa0cd"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "9a1fa7b3dbb96a9ca27bda4da0b1326b9771269b321c6b3dafbaf8b175727613"
 metafile = true
 
 [[files]]
