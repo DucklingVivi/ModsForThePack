@@ -617,17 +617,17 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-brewery.pw.toml"
-hash = "37fd65564269a26d6b5f66f7003b53fe25fd8079cbf6d0e05052bc0e6568007b"
+hash = "8ecb8867a3bd40e86863160756312582120af59367cc66101d01590ddabb69ab"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-meadow.pw.toml"
-hash = "66dd0b05b0923519d6ba83a38e9d2e186b448b60b81f9c1224f7dd7bcf6f2193"
+hash = "d3b33077fc5b83dc646f23cab2358d085c3935b24b8ba7e0d02734f1ed6177fa"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
-hash = "8179ed913158a85ff4bdf6789cd499719294857bf2c777731021f77bda60ddb5"
+hash = "bce02b7d89bb5192554f8dbd973cd6ce526cdd86a8fc194421e8eb9862927780"
 metafile = true
 
 [[files]]
@@ -908,6 +908,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "c51d471d6c00e2ee6c5d32363d18c8c81f62b38f0ba96214040ed4923ceaf07b"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "6734412a617158ad5bc8dc65402b1b14adc3628ce10b5528e04b5abf5ca9531a"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "[Let's Do] Meadow"
-filename = "letsdo-meadow-fabric-1.2.4.jar"
+filename = "letsdo-meadow-fabric-1.2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ra7o6Sl7/versions/pzwIWuWk/letsdo-meadow-fabric-1.2.4.jar"
-hash-format = "sha512"
-hash = "d5d6e73327d4453e108b3c23989387237f57e15680cc5febb24bc7a3b8b645d197c59a2cc03f97194f49499962327bfdd2c638d03e846fd65d32131da3f97137"
+hash-format = "sha1"
+hash = "123124247d1c5411d9756b60186cb7b5fa746785"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "ra7o6Sl7"
-version = "pzwIWuWk"
+[update.curseforge]
+file-id = 4622866
+project-id = 821483

@@ -3,11 +3,11 @@ filename = "letsdo-vinery-fabric-1.3.12.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1DWmBJVA/versions/3a8O93DI/letsdo-vinery-fabric-1.3.12.jar"
-hash-format = "sha512"
-hash = "e1ece5b13fa47946456e7885bd2f1117239b21fb0845883489036fe14da27334a5ef961b12fc51089d8ae542a55ab7eb7a080409aeb3691bcd20bde813276576"
+hash-format = "sha1"
+hash = "ec43bdad6197323061b3c941114fb8eafa8640ee"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "1DWmBJVA"
-version = "3a8O93DI"
+[update.curseforge]
+file-id = 4828490
+project-id = 704465
