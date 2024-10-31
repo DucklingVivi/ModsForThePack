@@ -846,6 +846,11 @@ hash = "2320c7dd0c1741da3943a5f0932a688b5323360b895e26a398c4b4a9246be67b"
 metafile = true
 
 [[files]]
+file = "mods/prism-fabric.pw.toml"
+hash = "ad2cabc8f0042248e26eb19c78f68ab9adde8a2a8e35979f84950b98a32c34f3"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "08b782e0a0be2852821480fe41375f3c648db17493d95b426de6c82ce7fabaa2"
 metafile = true
