@@ -556,11 +556,6 @@ hash = "3d91eabb43685940592f101ae474d48ae5dbcc6c458bc82f8e1f019865330941"
 metafile = true
 
 [[files]]
-file = "mods/jamlib.pw.toml"
-hash = "32fbcdb93c9059a47b9bd6f0b37e0c932c34089c3d7688c4177445376d8c28ac"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "2525e3e87e4ec9ba93d49929080347b81c9db8f79e10b481a8d23c991674c7c1"
 metafile = true
@@ -791,11 +786,6 @@ hash = "e6d455afe0bc630965481b1a35a8acff4b4a0eaf1844aa30b859735cf05be5d3"
 metafile = true
 
 [[files]]
-file = "mods/rechiseled.pw.toml"
-hash = "e10ac5a62e3aff6166459a1904ed95c60778c2d21d7d37210ddc6c48950e5604"
-metafile = true
-
-[[files]]
 file = "mods/redstonepen.pw.toml"
 hash = "281a929d68b9ed6ab234b0e4c1c44dc687b801fa3d91dca3617145f5423e44b7"
 metafile = true
@@ -818,11 +808,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "386ea4b328a607e02e56a8080089ff409b7a307df72de595584f094a92c4c3fe"
-metafile = true
-
-[[files]]
-file = "mods/rightclickharvest.pw.toml"
-hash = "9cc9633e5617b3b83f2aaa0d2206948e5d69d0dc7ae500406a317be958ac65c3"
 metafile = true
 
 [[files]]
