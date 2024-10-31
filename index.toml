@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "98ee5f71ad703a05636f2431500eec6ec3e085b1daf6b83ec3700459169be06f"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "4cf9caf335c87b4c4e8338006534ebc112a63b310c518807e13fbcfead166e05"
 metafile = true
@@ -81,21 +85,6 @@ hash = "a7f42bbebf72de35b2842ec54a09d08ee7a5ec035266740c71d295e15b491ea6"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "9d59327c7d86f46edafbe203b7f10305257bb310c6686a97a56ccbca7686f428"
-metafile = true
-
-[[files]]
-file = "mods/betterend.pw.toml"
-hash = "06e6ae5a7594bfe29f8dd2c3d50d3bb6ee28989e6172ba4ead35c5ea6e531e7b"
-metafile = true
-
-[[files]]
-file = "mods/betternether.pw.toml"
-hash = "6d090f9b90d151db12b99d70269e907c6742a42f4e5573066386f83863430efd"
-metafile = true
-
-[[files]]
 file = "mods/bewitchment.pw.toml"
 hash = "009e6df0c8b7b8a4b66482c7ab57b1a3da548c408fba321ddb1569d6cb4fae25"
 metafile = true
@@ -133,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "87f339c783840fc692ce681b878bf683bee38b5ff5388a4151b5c14b9ecfd8aa"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "3d89448c7689702ee772d9d1a5119dc7f47facdf8adf0d780804fda257d6671a"
 metafile = true
 
 [[files]]
@@ -532,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexjs.pw.toml"
-hash = "b72ce5c379a1e186aedff277102fc53d4ecfb65cef4c006ef9843ebe67dc6471"
+hash = "360b38a6681648930cf07352db020cde0def984894241ca81611ad519d17bdd7"
 metafile = true
 
 [[files]]
@@ -647,7 +641,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "05d1a1e00cfa4c03172dcec25879292c02e52b40523bed6518ae2385994d1744"
+hash = "66b7460ebfeb5e3523d1e758b061ada8b6e083132a02fcdbc251834b1cc68e1b"
 metafile = true
 
 [[files]]
@@ -881,13 +875,18 @@ hash = "2f0b7852043b2a4b21a6c69891343cfa8f6ff4767af8d37af4d2c30090810df0"
 metafile = true
 
 [[files]]
+file = "mods/restart-server.pw.toml"
+hash = "ce7c64cff4ce79dd65229a07a25ae8bfa50c36f4f218dd710a71f3d444adea44"
+metafile = true
+
+[[files]]
 file = "mods/revelationary.pw.toml"
 hash = "a20b4f1943fe21fe74993fa807573a04ae305b13384872c206b29673325532bc"
 metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "386ea4b328a607e02e56a8080089ff409b7a307df72de595584f094a92c4c3fe"
+hash = "3556b3c12188b0ce84f32615dd190a32891ae2a5dd9edf2b7ea9eaa00d674d18"
 metafile = true
 
 [[files]]
