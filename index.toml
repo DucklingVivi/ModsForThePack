@@ -55,11 +55,6 @@ hash = "6064baf49dee806afd111ebf89bbad222a5f023e5fd2324b7b0820cd78553117"
 metafile = true
 
 [[files]]
-file = "mods/armourers-workshop.pw.toml"
-hash = "3447b933c9473da83e7ed6d997b17dbac8cfdb361bfa1e8945527f380f023000"
-metafile = true
-
-[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "23d588988be35c25d09c3ef883e39bd1b570408cda2782dbe364f1efac0a1ab1"
 metafile = true
