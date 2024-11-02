@@ -320,6 +320,11 @@ hash = "d1c2f3ff80d3a29241a00012c6c152242782a8ddbb4bc192271a8e1bf1e23661"
 metafile = true
 
 [[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "8244b5fe3ab24ad3423da4e0eec8daa10d3629876524751bf57cdb8892ba39f1"
+metafile = true
+
+[[files]]
 file = "mods/easy-shulker-boxes.pw.toml"
 hash = "228c250d8c2e02fdaebf252cff633ac212df4880fdb584c9de403d9a27b25120"
 metafile = true
@@ -1092,9 +1097,4 @@ metafile = true
 [[files]]
 file = "mods/yigd.pw.toml"
 hash = "0cb6b5905b1b85e913228d510f049d7565387cc84181343d5a4a74fe5fb8cc26"
-metafile = true
-
-[[files]]
-file = "mods/zenith.pw.toml"
-hash = "3c938a4475e834778de86abdfd597aff626958d78bc61925d2ad4945c9c72df5"
 metafile = true
