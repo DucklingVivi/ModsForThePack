@@ -320,11 +320,6 @@ hash = "d1c2f3ff80d3a29241a00012c6c152242782a8ddbb4bc192271a8e1bf1e23661"
 metafile = true
 
 [[files]]
-file = "mods/easy-magic.pw.toml"
-hash = "11ce02f230977dfd0b83660e408bde7625608c65a8ead602bbe99b7c9e960e59"
-metafile = true
-
-[[files]]
 file = "mods/easy-shulker-boxes.pw.toml"
 hash = "228c250d8c2e02fdaebf252cff633ac212df4880fdb584c9de403d9a27b25120"
 metafile = true
