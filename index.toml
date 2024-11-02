@@ -470,11 +470,6 @@ hash = "869af50c062e2a2319c9af813598da5e4352953f8a2fb4b1aa386daa12ec1672"
 metafile = true
 
 [[files]]
-file = "mods/hex-casting.pw.toml"
-hash = "fc46594484a752959952cd457e763e8937149bf1c3fa47b2adda58601039b8e1"
-metafile = true
-
-[[files]]
 file = "mods/hex-circus.pw.toml"
 hash = "cc9ab36b828dcd686f4e736c4ed85fe55a5bf673b1e26b35a161a26953de2ff5"
 metafile = true
@@ -496,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
-hash = "fda7c004bd2c7d60d2d3bda94a3c839da723e78d437d1f39ac041f7609b5db91"
+hash = "bc937d9eb1603c36c924e5ba01c45c508139786f0703bc792f3f9858b3f362bf"
 metafile = true
 
 [[files]]
@@ -942,6 +937,11 @@ metafile = true
 [[files]]
 file = "mods/spectrum.pw.toml"
 hash = "f4e1b16843271847fe11527552a875d1c9ca4c4f17a27eeeeb6c6756cc8edc05"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-fabric.pw.toml"
+hash = "c51c43c253572583ffe18aaa71b0e766ed7e7863d423ea2c36f5ca714f8053e6"
 metafile = true
 
 [[files]]
