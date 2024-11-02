@@ -935,11 +935,6 @@ hash = "f4e1b16843271847fe11527552a875d1c9ca4c4f17a27eeeeb6c6756cc8edc05"
 metafile = true
 
 [[files]]
-file = "mods/spice-of-fabric.pw.toml"
-hash = "c51c43c253572583ffe18aaa71b0e766ed7e7863d423ea2c36f5ca714f8053e6"
-metafile = true
-
-[[files]]
 file = "mods/spirit.pw.toml"
 hash = "0aa3203edeccb95187d66000254a18f6f4af669e53c204d0d16bc55313a80105"
 metafile = true
