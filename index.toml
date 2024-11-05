@@ -160,6 +160,11 @@ hash = "25e866caf40ded868b100f887095ea25629e46eb4152477bbc7c7bec53ad5991"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "2ab99b31c79eb7c436b57febb9dce9e4b62e009dff9b92159c543d567ee0e7e3"
+metafile = true
+
+[[files]]
 file = "mods/cleancut.pw.toml"
 hash = "a689e37c47efcd504077b271a0f3dbe93fa96244c36a91df50e7da53f7e2d034"
 metafile = true
@@ -960,8 +965,13 @@ hash = "fde0a40e5f781de96bdec92970705140341e60e9e266fe49f7ae7b2e3df99466"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "b2fa4833212029276dc77a61f544ed67a85a7b9da27418aaf88d66c01ada2017"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "5f553ef531567fba961f33a8eb926467f3b9d127adc25df458e73d2919eca721"
+hash = "2340b3bbcd3c9760b0173e8d3c2ecdc9a476e360cf1133c077a151605f69e0dd"
 metafile = true
 
 [[files]]

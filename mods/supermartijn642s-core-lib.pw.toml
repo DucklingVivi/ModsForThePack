@@ -3,11 +3,11 @@ filename = "supermartijn642corelib-1.1.17a-fabric-mc1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rOUBggPv/versions/PcD37RiD/supermartijn642corelib-1.1.17a-fabric-mc1.19.2.jar"
-hash-format = "sha512"
-hash = "9a241e0cea61c18a9577d8d3f1f02bf3102b361b476a35d501a82873ade434b4b6a98eff715b2d96b9f5b2cd752acdb42bbe20d780476751607bec621907d944"
+hash-format = "sha1"
+hash = "1c5d7b2a8144a97ba8804521e7ea66aa78db1203"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "rOUBggPv"
-version = "PcD37RiD"
+[update.curseforge]
+file-id = 5668898
+project-id = 454372
