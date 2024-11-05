@@ -445,21 +445,6 @@ hash = "c90c68883ba1b65907c7a86efa8e2d03fc043de88e9ee0226e73a45051663e22"
 metafile = true
 
 [[files]]
-file = "mods/ftb-chunks-fabric.pw.toml"
-hash = "3ba280a0a75d6721f335cc7b651e96f8b8cc7fac7decc0ade7cccda83096a7df"
-metafile = true
-
-[[files]]
-file = "mods/ftb-library-fabric.pw.toml"
-hash = "3962cc289af4c636f20748d33729a61f14ddd38d55405a0f4169c8e2133f279f"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-fabric.pw.toml"
-hash = "191e7106a3915d5946487cbf827befceed9896ea937a99a12a73a702c31a707d"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "88c5c3b63a571e2fda01396e152ec0f5a7dafb1266fa4143784757affdef201c"
 metafile = true
@@ -782,6 +767,16 @@ metafile = true
 [[files]]
 file = "mods/oneironaut.pw.toml"
 hash = "36f2d45abe24df47f412e33a298aeec4164ff2d41181d5d4a503dc257d80dfe1"
+metafile = true
+
+[[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "f976ab0e3f672c3d4adab04dbc03a544508aa65dd2f3567be5b198fbc8308994"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "438f0bc770fc6a9f547431cc950977098b017ac7419eb67b8a343426fd12558c"
 metafile = true
 
 [[files]]
