@@ -735,6 +735,11 @@ hash = "26a6c62dd5e1b6812ffdf82fa05d64513100661704a3b247e7e88f10a8143923"
 metafile = true
 
 [[files]]
+file = "mods/modsforthepack.pw.toml"
+hash = "1fa856577a9bac0fc251363ba5b9ff60ff8a3d8c5fa44a5981ccf34d0183edb6"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "83459b39b28c398569b7bf18ac831d2a4c0e794e6172ceb7ff603758d743a75e"
 metafile = true
