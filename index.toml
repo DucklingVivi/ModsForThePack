@@ -516,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexkinetics.pw.toml"
-hash = "c9fcd3728dd51abc0e787a716fb693ea6be0febfe5b440e113954f92c2b3326c"
+hash = "280b98c1f3773acbff376b26ed9971f4cb5740339e0e56049ccd9f7c1393d533"
 metafile = true
 
 [[files]]
