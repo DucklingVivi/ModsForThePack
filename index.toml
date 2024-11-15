@@ -85,6 +85,11 @@ hash = "009e6df0c8b7b8a4b66482c7ab57b1a3da548c408fba321ddb1569d6cb4fae25"
 metafile = true
 
 [[files]]
+file = "mods/biome-technologiestm.pw.toml"
+hash = "2853d52a4d57df824900bf227b22e0cf28ae2f2b91b462305b7fe37827614748"
+metafile = true
+
+[[files]]
 file = "mods/blahaj.pw.toml"
 hash = "54c69ce6f45abeb4f2114f8143062dcdc70d3b853cc887c2aece182bd5848c89"
 metafile = true
@@ -335,6 +340,11 @@ hash = "228c250d8c2e02fdaebf252cff633ac212df4880fdb584c9de403d9a27b25120"
 metafile = true
 
 [[files]]
+file = "mods/eccentric-tome-fabric.pw.toml"
+hash = "6f2f9b31c3390ca84a3bc4e30580b45c46c1e0f94313ba8371ea5b853f19129a"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "7bf6b4dd103447c56e48c5861660c2092749da3441ebc933652db386a151bbe8"
 metafile = true
@@ -442,6 +452,11 @@ metafile = true
 [[files]]
 file = "mods/foodeffecttooltips.pw.toml"
 hash = "a5fc21a5eec0f9b67f7ce3bbe1b416a36acffda366a3cc80b255c890684ce207"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port-fabric.pw.toml"
+hash = "b9c242762cf8567b78e9b320d1b9ea51cac86a6a68f00dd602e2ebb19a9a477c"
 metafile = true
 
 [[files]]
