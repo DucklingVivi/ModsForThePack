@@ -85,6 +85,11 @@ hash = "009e6df0c8b7b8a4b66482c7ab57b1a3da548c408fba321ddb1569d6cb4fae25"
 metafile = true
 
 [[files]]
+file = "mods/biomes-in-jars-fabric.pw.toml"
+hash = "69264818dc284355c6bf7f769c70fe1e050a489527bc553e52b6dcea9644bcdb"
+metafile = true
+
+[[files]]
 file = "mods/blahaj.pw.toml"
 hash = "54c69ce6f45abeb4f2114f8143062dcdc70d3b853cc887c2aece182bd5848c89"
 metafile = true
@@ -607,6 +612,11 @@ metafile = true
 [[files]]
 file = "mods/kettle.pw.toml"
 hash = "e010ace0f0bf2721daa3e9f1f7ebedbc5c7c7f7e82d17a2cdae6e6fa0d3d3b4e"
+metafile = true
+
+[[files]]
+file = "mods/konkrete-fabric.pw.toml"
+hash = "000540c179a3185d2293099b7e049b88c57b7873f5515084b4e9b790f910e5ef"
 metafile = true
 
 [[files]]
