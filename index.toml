@@ -85,11 +85,6 @@ hash = "009e6df0c8b7b8a4b66482c7ab57b1a3da548c408fba321ddb1569d6cb4fae25"
 metafile = true
 
 [[files]]
-file = "mods/biome-technologiestm.pw.toml"
-hash = "2853d52a4d57df824900bf227b22e0cf28ae2f2b91b462305b7fe37827614748"
-metafile = true
-
-[[files]]
 file = "mods/blahaj.pw.toml"
 hash = "54c69ce6f45abeb4f2114f8143062dcdc70d3b853cc887c2aece182bd5848c89"
 metafile = true
