@@ -756,7 +756,7 @@ metafile = true
 
 [[files]]
 file = "mods/modsforthepack.pw.toml"
-hash = "b2bc76604b7628ad4f38ba42e37395e70db5182384468bf3d763706ef554d519"
+hash = "405ecd4ad53bc576ad14bd4f59b3b55b4e6fe04bf1cd4aa27a3201bf85cb9557"
 metafile = true
 
 [[files]]
