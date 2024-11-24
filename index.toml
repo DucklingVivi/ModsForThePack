@@ -870,8 +870,13 @@ hash = "08b782e0a0be2852821480fe41375f3c648db17493d95b426de6c82ce7fabaa2"
 metafile = true
 
 [[files]]
+file = "mods/qkl-core.pw.toml"
+hash = "b647cedec08cb2706abea15657811a32d39c9b234156b3ec56b905ef47bef5fd"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
-hash = "3c8ca60d12c9718effee0adca2e0dd495eb8af860a1e8704c1a6501ff2f484bf"
+hash = "7489ffa88ea89b40e3cd4c6fcc34af2efaebc849699971cf673428aa42abc174"
 metafile = true
 
 [[files]]
