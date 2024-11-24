@@ -420,11 +420,6 @@ hash = "1a6a769c558a6bf7aedc91535a49b6e79de00b671f26434da4e4c0c1742e257b"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a1793fb3d541ce4e7a6d606b180287ffe0e08d660a2e03db33bcb06815e25668"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "a6db88c5bf198ba2a73c418f9a9edfdef39203ee96806077f5fc9af876669b3e"
 metafile = true
@@ -876,7 +871,7 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "7489ffa88ea89b40e3cd4c6fcc34af2efaebc849699971cf673428aa42abc174"
+hash = "3c8ca60d12c9718effee0adca2e0dd495eb8af860a1e8704c1a6501ff2f484bf"
 metafile = true
 
 [[files]]
