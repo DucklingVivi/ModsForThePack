@@ -505,6 +505,11 @@ hash = "eac8b52b12d9a3f40712fa7dfe6d42eb2e899f57cf4bc4599e7b6266501bbb89"
 metafile = true
 
 [[files]]
+file = "mods/hexdebug.pw.toml"
+hash = "227dd565d6d36237fd3c4e44ac2f07029dda34d1d343f53b364d58f04cdadb83"
+metafile = true
+
+[[files]]
 file = "mods/hexfaster.pw.toml"
 hash = "e7296cfedf7dbba9160abee9d676cb92689a364763207d9b25f85b98db7ba257"
 metafile = true
