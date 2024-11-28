@@ -60,11 +60,6 @@ hash = "23d588988be35c25d09c3ef883e39bd1b570408cda2782dbe364f1efac0a1ab1"
 metafile = true
 
 [[files]]
-file = "mods/astronomical.pw.toml"
-hash = "181710a77d553e089213015a1d95e6fee5b61cee1a03718739df32e7e80fa57c"
-metafile = true
-
-[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "c2a086fe600af29a4fb8ea48c6191dad65a9b1d2a2dbb8ce4c52ae822f00e100"
 metafile = true
@@ -796,7 +791,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "ad4ee7980d9009c8defb219eb023a4abf6df2a895ced6164c5f1581de57d3ab8"
+hash = "def8aa5617bad8b200144d7ff89b13825b9dc16bdf7dae1d0058cc526bcbc979"
 metafile = true
 
 [[files]]
@@ -960,18 +955,23 @@ hash = "f7c5f0d1e8711e621222474017e44e2de28d6df83db928f7e93502ea16715330"
 metafile = true
 
 [[files]]
-file = "mods/sophisticatedbackpacks.pw.toml"
-hash = "1ef9308ecf87d43b7d087ca1111e45e7ca519adaef5843d8117b3a1e0a7d3b5e"
+file = "mods/sophisticated-backpacks-unofficial-fabric-port.pw.toml"
+hash = "d32b629b74e2ae66a3adc8fd1a87be7d0df0ad66f494dbc1027713092f7094d4"
 metafile = true
 
 [[files]]
-file = "mods/sophisticatedcore.pw.toml"
-hash = "fcb28e94e2530acb1f7fd5833641a0ca24448f66d4e46da09889cd403e38c89b"
+file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
+hash = "7fd3ae616482e3dbcd6ca6c35e00448b8250d8b053ecfeafbaddc1f87fa29d00"
 metafile = true
 
 [[files]]
-file = "mods/sophisticatedstorage.pw.toml"
-hash = "83bffbf1f54a4fd22ff0555fd80a55c4cf03a33f2fb3b299447fde4450e5d6c7"
+file = "mods/sophisticated-core-unofficial-fabric-port.pw.toml"
+hash = "b25667ad744ddc420d902c335e4b533f0476552801a5c0b9c75cc8539c111814"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-(unofficial-fabric-port).pw.toml"
+hash = "e52a81a6f25bb95689329bfbfbeb6804daa0244df0c4e61226db6c1fc9a482c6"
 metafile = true
 
 [[files]]
