@@ -1,0 +1,7 @@
+name = "sophisticatedstorage"
+filename = "sophisticatedstorage-1.19.2-0.9.7.-SNAPSHOT.jar"
+
+[download]
+url = "https://github.com/DucklingVivi/ModsForThePack/raw/refs/heads/main/External_Mods/sophisticatedstorage-1.19.2-0.9.7.-SNAPSHOT.jar"
+hash-format = "sha256"
+hash = "40b8329ab29593dc51db5480d0f3295173164f2ea48f713fc15cd8591387a6c1"

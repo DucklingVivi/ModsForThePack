@@ -1,0 +1,7 @@
+name = "sophisticatedbackpacks"
+filename = "sophisticatedbackpacks-1.19.2-3.20.2.-SNAPSHOT.jar"
+
+[download]
+url = "https://github.com/DucklingVivi/ModsForThePack/raw/refs/heads/main/External_Mods/sophisticatedbackpacks-1.19.2-3.20.2.-SNAPSHOT.jar"
+hash-format = "sha256"
+hash = "32521b9a42dcf9b83908cd77c40f63dcf4fb62cb9a1c81690b4b4e2635f8243d"

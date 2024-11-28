@@ -1,0 +1,7 @@
+name = "sophisticatedcore"
+filename = "sophisticatedcore-1.19.2-0.6.4.-SNAPSHOT.jar"
+
+[download]
+url = "https://github.com/DucklingVivi/ModsForThePack/raw/refs/heads/main/External_Mods/sophisticatedcore-1.19.2-0.6.4.-SNAPSHOT.jar"
+hash-format = "sha256"
+hash = "ff8eb978d661c29cdba85bb00bdf66295a56ece32f5aac84fb364f0ed6626eca"
