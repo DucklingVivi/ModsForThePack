@@ -1,6 +1,6 @@
 name = "Neruina - Ticking Entity Fixer"
 filename = "Neruina-2.1.2-fabric+1.19.2.jar"
-side = "both"
+side = "server"
 pin = true
 
 [download]
