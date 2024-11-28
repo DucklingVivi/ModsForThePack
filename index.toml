@@ -620,6 +620,11 @@ hash = "69bb8728c0bd4bc3f3cac1a979a5b5016983c646bb3c51830a98293043017eff"
 metafile = true
 
 [[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "02ea67f82c50520991a4b320d6d81e558d0be7a8d9dda53cb9f007b172333cdb"
+metafile = true
+
+[[files]]
 file = "mods/kettle.pw.toml"
 hash = "e010ace0f0bf2721daa3e9f1f7ebedbc5c7c7f7e82d17a2cdae6e6fa0d3d3b4e"
 metafile = true
