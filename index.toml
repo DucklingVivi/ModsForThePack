@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "b01c8b62c5366bfbd7cc81265557094b60462ab34ddc2d85ba6ddd7de3dba6a6"
+hash = "4c82c7590b858f718b2fdf14e36ba315a95b04f51919759b6e667233fa1bbf08"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "2644241d528f712c92d5dcaeb93acd85991a40e40403b5db6d9fa8f166b527b7"
+hash = "802f47f9cdbadb2b7a7bcca278d0accce43c6549d09b61096bce89e501e8bcf1"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-garnished.pw.toml"
-hash = "1e4b849bbc219c4feb060f1c7d73f3e776b40c363a989d3e1e24770b8625e40d"
+hash = "9e165938ac07ed4a355b8da21d6bff1f25fca5466ed8927fd4d847cf08d8e9b7"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-pattern-schematics.pw.toml"
-hash = "24151ebee36b1cf975a56a182fb6eea50fe92bf5f6d963c6fd4e6260a9e3e413"
+hash = "2370ceccca88bf66e6cbe692e2cc606718bc320eb9db4b1873604ac747cd3ccc"
 metafile = true
 
 [[files]]
@@ -351,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "3ea1fcd83c80fc476bb2799d23edd7268d11a2f3a0f1723bc34731d8ff663f67"
+hash = "dd113ee691335664f9c314c4722e8e6616c9d735144677f6f9c23ceb61ad49a4"
 metafile = true
 
 [[files]]
@@ -546,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexstuff.pw.toml"
-hash = "85309ea9311fd7f0305ca35002d1ce0cf93f942ac85e9ac68ca831e87b6ae98c"
+hash = "0d26dfe1f8310a3c4b529fa3fd1b602f054ac374b8078809d5cbbd97875fa959"
 metafile = true
 
 [[files]]
@@ -791,7 +791,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "583774c2649e09cc37e5259cc8b9b36393a7acac4b75c56a4c086ba222776a26"
+hash = "b0dfdc59c76e988a6966c2ce81bd4922f375050a8edcfa331b8931700e4a6e5b"
 metafile = true
 
 [[files]]
@@ -816,12 +816,12 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "438f0bc770fc6a9f547431cc950977098b017ac7419eb67b8a343426fd12558c"
+hash = "442cc5d88d160770f51806d083a600d463c47ed043ced19a599f2c8a740244c2"
 metafile = true
 
 [[files]]
 file = "mods/origins-plus-plus.pw.toml"
-hash = "16f961efbaec4cbd6a0e96b3d9158b904ca1a7ee443a6785912bac457dc1134b"
+hash = "59f38256f040992d4836590025f318ce80bc28c05f38a75244ec44ba22653c62"
 metafile = true
 
 [[files]]
@@ -941,7 +941,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "fae6b0ab0ab299d10eb0ab112dae18f5b3b6e4b9109f9b54aee01230fc3dfb9c"
+hash = "a605bae9c8371d3a53cac7f1bb0c0ae869563307f77947631cf3a029df3aedc0"
 metafile = true
 
 [[files]]

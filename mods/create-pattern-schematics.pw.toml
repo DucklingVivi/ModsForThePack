@@ -1,13 +1,13 @@
 name = "Create: Pattern Schematics"
-filename = "pattern_schematics-1.1.13+fabric-1.19.2.jar"
+filename = "pattern_schematics-1.1.15+fabric-1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cpqKG67r/versions/ixe538Q9/pattern_schematics-1.1.13%2Bfabric-1.19.2.jar"
+url = "https://cdn.modrinth.com/data/cpqKG67r/versions/VDBaLrio/pattern_schematics-1.1.15%2Bfabric-1.19.2.jar"
 hash-format = "sha512"
-hash = "941f66b81da598c259916c684c27f0bd6fd136b1b3a4d104e35cb966e399856f874721b49576436485d3f46ee4abedaeaef05b07deb7a63691742b5bf91fde48"
+hash = "7fc56fef1cdfbcdf7c54c4fefc8fb7fe364ff05e12fe7ec3e2a7542d4fbc4032a59ea5f55f68e06adc3fbec7647fb75938124256fc16dd8c60363f21bf1901ac"
 
 [update]
 [update.modrinth]
 mod-id = "cpqKG67r"
-version = "ixe538Q9"
+version = "VDBaLrio"
