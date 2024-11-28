@@ -60,6 +60,11 @@ hash = "23d588988be35c25d09c3ef883e39bd1b570408cda2782dbe364f1efac0a1ab1"
 metafile = true
 
 [[files]]
+file = "mods/astronomical.pw.toml"
+hash = "181710a77d553e089213015a1d95e6fee5b61cee1a03718739df32e7e80fa57c"
+metafile = true
+
+[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "c2a086fe600af29a4fb8ea48c6191dad65a9b1d2a2dbb8ce4c52ae822f00e100"
 metafile = true
@@ -922,6 +927,11 @@ metafile = true
 [[files]]
 file = "mods/runelic.pw.toml"
 hash = "94e672cf4619cf7301abbdeecf636d91805697554a47b17d0d5c77551a5d0d02"
+metafile = true
+
+[[files]]
+file = "mods/satin-api.pw.toml"
+hash = "337c18c9dc9e371de8b09bfbd752d4751556afedef3f75820e88205ecf337dc1"
 metafile = true
 
 [[files]]
