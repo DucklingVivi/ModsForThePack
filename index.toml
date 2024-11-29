@@ -931,7 +931,7 @@ metafile = true
 
 [[files]]
 file = "mods/satin-api.pw.toml"
-hash = "337c18c9dc9e371de8b09bfbd752d4751556afedef3f75820e88205ecf337dc1"
+hash = "eff50f07b22acfa4efd014e86df1cbe29af11f3cd9bd436c6f078c070467aef5"
 metafile = true
 
 [[files]]
