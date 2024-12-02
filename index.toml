@@ -481,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravity-api.pw.toml"
-hash = "deaa8a22917e30e8bfa4cfe7c874640f23621c8279bcf5fa9b0b32ff8a9c2ef6"
+hash = "29fb908a72d328c21285bd7b26bd92340a2e04a6b0a4f0685f646515b2c95e6c"
 metafile = true
 
 [[files]]
