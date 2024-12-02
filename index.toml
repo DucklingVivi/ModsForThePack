@@ -385,6 +385,11 @@ hash = "d6a3d516d42fbcb4553f4536888b3e8926bc5bd708df58ea91e7fc0bb889ab2d"
 metafile = true
 
 [[files]]
+file = "mods/entangled.pw.toml"
+hash = "2ac5ff0a8f8286fe0ef4137563d6b53e4c6446a3259814b497c25994886fabfb"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "fe5d34562c3ee0b50268f77187147a9fd94e9eb388da52b46fb8bf5d3432471b"
 metafile = true
