@@ -25,11 +25,6 @@ hash = "40b5439cb2d45983ecb67ce154a1fff2c002b0cdb52f4358c3d93f697e7ff6f4"
 metafile = true
 
 [[files]]
-file = "mods/amethyst-gravity.pw.toml"
-hash = "4dcd53c80dcc983f11672d82a3af9d5d1380f832075a769724b01a9fe183e754"
-metafile = true
-
-[[files]]
 file = "mods/antighost.pw.toml"
 hash = "e8de5feaf8b78bd44e38d9502937ea49cfc6679ebc82e2d45eb36d2340115c93"
 metafile = true
@@ -477,11 +472,6 @@ metafile = true
 [[files]]
 file = "mods/go-fish.pw.toml"
 hash = "869af50c062e2a2319c9af813598da5e4352953f8a2fb4b1aa386daa12ec1672"
-metafile = true
-
-[[files]]
-file = "mods/gravity-api.pw.toml"
-hash = "29fb908a72d328c21285bd7b26bd92340a2e04a6b0a4f0685f646515b2c95e6c"
 metafile = true
 
 [[files]]
