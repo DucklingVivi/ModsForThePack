@@ -5,6 +5,10 @@ file = "config/defaultoptions/servers.dat"
 hash = "98ee5f71ad703a05636f2431500eec6ec3e085b1daf6b83ec3700459169be06f"
 
 [[files]]
+file = "modernfix-mixins.properties"
+hash = "6ed5334915d6f2a14fba540812dd673ef814e08780e509a0e64649c97db4bded"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "4cf9caf335c87b4c4e8338006534ebc112a63b310c518807e13fbcfead166e05"
 metafile = true
@@ -226,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/coroutil.pw.toml"
-hash = "f3ca7c8281ad39765aea3ec76a1df304e7a6f158382462af9beaed5d52c45aea"
+hash = "3cd3a0b21ef1dfe1fc8935d66a461d6cbf52ba3df9e87d2c709a99bd2a3edf6e"
 metafile = true
 
 [[files]]
@@ -481,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravity-api.pw.toml"
-hash = "deaa8a22917e30e8bfa4cfe7c874640f23621c8279bcf5fa9b0b32ff8a9c2ef6"
+hash = "c1a8049ca914e733057eca715638fc1298042c38218529677061f3a2674b315f"
 metafile = true
 
 [[files]]
@@ -626,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-zoom.pw.toml"
-hash = "02ea67f82c50520991a4b320d6d81e558d0be7a8d9dda53cb9f007b172333cdb"
+hash = "34557fb3b0b2c49ccf484636eb714755fcc80495f3b47dc53efbc669b0a49a59"
 metafile = true
 
 [[files]]
@@ -801,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "def8aa5617bad8b200144d7ff89b13825b9dc16bdf7dae1d0058cc526bcbc979"
+hash = "ad4ee7980d9009c8defb219eb023a4abf6df2a895ced6164c5f1581de57d3ab8"
 metafile = true
 
 [[files]]
@@ -896,7 +900,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "e6d455afe0bc630965481b1a35a8acff4b4a0eaf1844aa30b859735cf05be5d3"
+hash = "207a9e749c2fbeb5fb97a8676465c96c2a3e87acdea6ca6eecd36d1fcbe5932b"
 metafile = true
 
 [[files]]
@@ -966,22 +970,22 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks-unofficial-fabric-port.pw.toml"
-hash = "d32b629b74e2ae66a3adc8fd1a87be7d0df0ad66f494dbc1027713092f7094d4"
+hash = "be9164980b1d1fe6d8158c6337ac47f09d9cc2111d5d04c7668a0111602b2c59"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
-hash = "7fd3ae616482e3dbcd6ca6c35e00448b8250d8b053ecfeafbaddc1f87fa29d00"
+hash = "97de9ad688d27aa1de59154704b97ccd168c46833e9135d9fc3379324db02f4b"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core-unofficial-fabric-port.pw.toml"
-hash = "b25667ad744ddc420d902c335e4b533f0476552801a5c0b9c75cc8539c111814"
+hash = "1b7453c94c553a964c7a371ad3b0e5dbb7789c4b8fe39bb75a470a563ffeb038"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage-(unofficial-fabric-port).pw.toml"
-hash = "e52a81a6f25bb95689329bfbfbeb6804daa0244df0c4e61226db6c1fc9a482c6"
+hash = "24f59ec119be8bb09e86778c8612119588341d068c06d45dc60e8794f87f8112"
 metafile = true
 
 [[files]]
@@ -1116,7 +1120,7 @@ metafile = true
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
-hash = "97b93b7c4f429050858ce44cc398106b41aa7e1b2399c59eed77f7d46c2f2e2b"
+hash = "917decfb90778cbea77ef4c7afc40b914021adf9489b8ebe2f125de785bb18ba"
 metafile = true
 
 [[files]]
