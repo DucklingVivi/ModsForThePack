@@ -1090,11 +1090,6 @@ hash = "bbd4ba6c9d65822511fcb47417a613481337b11f4fa0ec85080e823bc0c1b662"
 metafile = true
 
 [[files]]
-file = "mods/unloaded-activity.pw.toml"
-hash = "b66b6eeaa3ae7fae3cb62aba7e0fecfa960dca5cdc2206a8f87b30bf0b43bc30"
-metafile = true
-
-[[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "31df5445beda28045afa8dd241e95fe14a1b2b809fdc71f05be9ebfabb299793"
 metafile = true
