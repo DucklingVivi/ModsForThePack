@@ -1,6 +1,6 @@
 name = "Mods For The Pack"
 author = "Vivian"
-version = "1.5.7"
+version = "1.5.8"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,4 +10,4 @@ hash = "cf8938891bc5cb0ba02a44d363159beb637bd5f739d2318648392de02a4d2743"
 
 [versions]
 minecraft = "1.19.2"
-quilt = "0.26.0"
+quilt = "0.26.6"
