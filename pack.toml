@@ -9,6 +9,7 @@ hash-format = "sha256"
 
 hash = "bf429e612c7dbe088c3c658e1898dd8150a7732a1dd06044b1d8f2b28778fda4"
 
+hash = "d5cce4d9b90b8558f37faea45a4307c18328009f43f3aac0bc2a622271c0f01e"
 
 [versions]
 minecraft = "1.19.2"
