@@ -1,7 +1,7 @@
 name = "modsforthepack"
-filename = "modsforthepack-1.0.5.jar"
+filename = "modsforthepack-1.0.0.jar"
 
 [download]
-url = "https://github.com/DucklingVivi/ModsForThePack/raw/refs/heads/main/External_Mods/modsforthepack-1.0.5.jar"
+url = "https://github.com/DucklingVivi/ModsForThePack/raw/refs/heads/main/External_Mods/modsforthepack-1.0.0.jar"
 hash-format = "sha256"
-hash = "5cc0d8b3388875bc50ce8e8ad5aacfc26ea88275df8f5c5f8e78ea6059b89c81"
+hash = "405624e6f7e0a49a15db0d8bb0f0fbad1f7452a06447a3699475154f844ba34c"
