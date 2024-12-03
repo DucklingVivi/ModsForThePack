@@ -6,11 +6,9 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-<<<<<<< HEAD
+
 hash = "bf429e612c7dbe088c3c658e1898dd8150a7732a1dd06044b1d8f2b28778fda4"
-=======
-hash = "e457964487c09e7ff1010aefec9e1125ee5fbcb800947a0074eb91fa9888a0bd"
->>>>>>> parent of 94fa34a (Merge branch 'main' into ok)
+
 
 [versions]
 minecraft = "1.19.2"
