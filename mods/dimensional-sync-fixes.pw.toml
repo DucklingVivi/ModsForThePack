@@ -3,8 +3,8 @@ filename = "dimensionalsyncfixes-fabric-1.20.1-0.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f1d0d5258e36412ca651d45f95706100a286bc3f"
+hash-format = "sha256"
+hash = "a891ddc35d9fe52468ed8bb9a597bdb63ef089876befbddbdd562275f49022ba"
 mode = "metadata:curseforge"
 
 [update]

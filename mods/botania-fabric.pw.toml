@@ -3,8 +3,8 @@ filename = "Botania-1.19.2-440.2-FABRIC.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ce1e25f5d31a5321b13f5a26ef116834ff3602a0"
+hash-format = "sha256"
+hash = "8bad3407d7939a189f8fcf8d4684531735c535acfb1f0a7da6f4f64bed73f29d"
 mode = "metadata:curseforge"
 
 [update]

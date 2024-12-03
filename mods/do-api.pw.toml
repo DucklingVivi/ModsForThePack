@@ -3,8 +3,8 @@ filename = "letsdo-api-fabric-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "79f0b74629dfdef652171c9f79918f6323b7940b"
+hash-format = "sha256"
+hash = "a5ce7e7e56092e7f9ad52be3e76345365af7c7787e1afaefb035109e32f9446e"
 mode = "metadata:curseforge"
 
 [update]

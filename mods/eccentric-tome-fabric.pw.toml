@@ -3,8 +3,8 @@ filename = "eccentrictome-1.10.2+1.0.2+1.19.2+fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "439dbc1e95f0a9903b6b0ee6d9edc5edaee62909"
+hash-format = "sha256"
+hash = "28b17a44bcaa8148c2ea6fb2fd41f97f5baede4d6e7b1b36d11edbc9a57d0185"
 mode = "metadata:curseforge"
 
 [update]

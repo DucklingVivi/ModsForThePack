@@ -3,8 +3,8 @@ filename = "bewitchment-1.19-7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7d05eb503fd0872f2bf6574d0d4403962490b495"
+hash-format = "sha256"
+hash = "bd141319ffbfd1d1b25b9f030bab489e086963e5215bd9d61904113ec66922ae"
 mode = "metadata:curseforge"
 
 [update]

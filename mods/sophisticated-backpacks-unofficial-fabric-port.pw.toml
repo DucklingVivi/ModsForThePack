@@ -3,8 +3,8 @@ filename = "sophisticatedbackpacks-1.19.2-3.20.2.22.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5a3736139b1ddb9c0addbed025fd9d0bf7b671d6"
+hash-format = "sha256"
+hash = "4de588d7bc2f4b6e062ecfa077892b955b19181be47285345ac7733ea060c9f7"
 mode = "metadata:curseforge"
 
 [update]

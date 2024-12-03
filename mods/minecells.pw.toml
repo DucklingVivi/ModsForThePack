@@ -3,8 +3,8 @@ filename = "minecells-1.5.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4e646fe9a6528defcee33908f5cf1c96f8f3e0f1"
+hash-format = "sha256"
+hash = "91e0c30dba64c2554d53877f13097e9beccda6d7fc4cb06585886eb6e7d1b228"
 mode = "metadata:curseforge"
 
 [update]

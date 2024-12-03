@@ -3,8 +3,8 @@ filename = "resourcefulconfig-fabric-1.19.2-1.0.20.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1976a1cbadc2bb22f9bec3c250f0851e12d3bae7"
+hash-format = "sha256"
+hash = "a1971a37dfdd5d435840eabbf8ad1a473ee93c9765c09caa482deb5f139f3f7e"
 mode = "metadata:curseforge"
 
 [update]

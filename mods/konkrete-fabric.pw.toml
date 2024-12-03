@@ -3,8 +3,8 @@ filename = "konkrete_fabric_1.8.0_MC_1.19.1-1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "eaaa52133f4b393e559b30fbb4feaa6eb533dac1"
+hash-format = "sha256"
+hash = "fec70f149eb4477f749334f9784d6ac8a717b14b3230692352ebe87ac8107bc9"
 mode = "metadata:curseforge"
 
 [update]

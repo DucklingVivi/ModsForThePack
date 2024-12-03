@@ -3,8 +3,8 @@ filename = "EasyMagic-v4.3.3-1.19.2-Fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6d4442fbf5afbc7e4589ba6ad031e04e921fea31"
+hash-format = "sha256"
+hash = "7e33cbcfd31617ad3aa28c8f852293d640108193addf035ee70cfe4ad64ee474"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "letsdo-meadow-fabric-1.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "123124247d1c5411d9756b60186cb7b5fa746785"
+hash-format = "sha256"
+hash = "f6a0d14447e0d7c8e19c0433fb4d453b98d13d7b1bba17fa292a2d1d76917762"
 mode = "metadata:curseforge"
 
 [update]

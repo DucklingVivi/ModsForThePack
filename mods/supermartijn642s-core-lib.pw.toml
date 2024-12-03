@@ -3,8 +3,8 @@ filename = "supermartijn642corelib-1.1.17a-fabric-mc1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1c5d7b2a8144a97ba8804521e7ea66aa78db1203"
+hash-format = "sha256"
+hash = "35196c85809c330d6adc8500e998f12e605382236b4727f4a27e25089ef8535d"
 mode = "metadata:curseforge"
 
 [update]

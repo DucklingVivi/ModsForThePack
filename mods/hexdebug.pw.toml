@@ -3,8 +3,8 @@ filename = "hexdebug-fabric-0.2.2+1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "73ce6d132f5560255ed1ac1c386189fd4f130646"
+hash-format = "sha256"
+hash = "1c5e1e4755418d169bad877f26a327730db63a34e3d6af8d240959d15f51410f"
 mode = "metadata:curseforge"
 
 [update]

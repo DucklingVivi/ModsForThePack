@@ -3,8 +3,8 @@ filename = "midnightlib-quilt-1.0.0-patch1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3e1d6866bb820558e6c0db8cb6c9d1931d6ff268"
+hash-format = "sha256"
+hash = "54200b922c671b898e75f596246d6fdafaa1bb23f3af299b438926420a384512"
 mode = "metadata:curseforge"
 
 [update]

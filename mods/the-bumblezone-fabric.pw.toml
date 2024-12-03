@@ -3,8 +3,8 @@ filename = "the_bumblezone_quilt-6.9.13+1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "919dd537ae48b5a86417619daa8c08c004fb75f5"
+hash-format = "sha256"
+hash = "8469dd9be477898e4d06696928d6d5d8501c24e628af615e9d7f8c6e471a89fc"
 mode = "metadata:curseforge"
 
 [update]

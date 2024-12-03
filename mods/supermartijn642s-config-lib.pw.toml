@@ -3,8 +3,8 @@ filename = "supermartijn642configlib-1.1.8a-fabric-mc1.19.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "01d7387f2258a242f5db4c7bc7c9a9d3842daebc"
+hash-format = "sha256"
+hash = "a554a5db6f9152afcd6216de6082cef590b140f7c54dd3a1a5c2299a4c437d40"
 mode = "metadata:curseforge"
 
 [update]
