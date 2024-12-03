@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "c429009b58f253786cee08ea0ea08a2408e7aabc510cce613ea0142c5eaf7c6f"
+hash = "56784c2dc5720a3389099dc89383c416702e23c0913f038e9e730b906be7c4ab"
 metafile = true
 
 [[files]]
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexcassettes.pw.toml"
-hash = "c9f2afc9665ff6f90c576835267acebc220e4ffa1fb9f5276abee4e2fef1874e"
+hash = "a5dd2684d642ffa19d7406680d24baa202959c26f5aac74fd568ab889d23072d"
 metafile = true
 
 [[files]]
