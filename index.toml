@@ -25,6 +25,11 @@ hash = "40b5439cb2d45983ecb67ce154a1fff2c002b0cdb52f4358c3d93f697e7ff6f4"
 metafile = true
 
 [[files]]
+file = "mods/amethyst-gravity.pw.toml"
+hash = "4dcd53c80dcc983f11672d82a3af9d5d1380f832075a769724b01a9fe183e754"
+metafile = true
+
+[[files]]
 file = "mods/antighost.pw.toml"
 hash = "e8de5feaf8b78bd44e38d9502937ea49cfc6679ebc82e2d45eb36d2340115c93"
 metafile = true
@@ -475,6 +480,11 @@ hash = "869af50c062e2a2319c9af813598da5e4352953f8a2fb4b1aa386daa12ec1672"
 metafile = true
 
 [[files]]
+file = "mods/gravity-api.pw.toml"
+hash = "33fef0d13cf664b22309265bae85b8ddf7dd44a2cf6ad23aeb04751944127bfb"
+metafile = true
+
+[[files]]
 file = "mods/hex-circus.pw.toml"
 hash = "cc9ab36b828dcd686f4e736c4ed85fe55a5bf673b1e26b35a161a26953de2ff5"
 metafile = true
@@ -745,11 +755,6 @@ hash = "e2248831cc82d3bc1d5951eb1d8e128073a8aa8593337410734befee44bb8988"
 metafile = true
 
 [[files]]
-file = "mods/minecells.pw.toml"
-hash = "ce2b38431c7794851d7d1944c1ecef2f6c8a27ec6d5e0f06999bea7c58f96575"
-metafile = true
-
-[[files]]
 file = "mods/mo-structures.pw.toml"
 hash = "f2607f6a7cdafb6fe6eb6bd90972cc658b4f72cd6c6c4f0bcecf7e323d9bb2ca"
 metafile = true
@@ -766,7 +771,7 @@ metafile = true
 
 [[files]]
 file = "mods/modsforthepack.pw.toml"
-hash = "405ecd4ad53bc576ad14bd4f59b3b55b4e6fe04bf1cd4aa27a3201bf85cb9557"
+hash = "60001a4eea4bf876ea814a9d7f8b2f6b31ce16d19c8c1838cc261740787fa0e6"
 metafile = true
 
 [[files]]
@@ -1072,11 +1077,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "bbd4ba6c9d65822511fcb47417a613481337b11f4fa0ec85080e823bc0c1b662"
-metafile = true
-
-[[files]]
-file = "mods/unloaded-activity.pw.toml"
-hash = "b66b6eeaa3ae7fae3cb62aba7e0fecfa960dca5cdc2206a8f87b30bf0b43bc30"
 metafile = true
 
 [[files]]
