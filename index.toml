@@ -755,11 +755,6 @@ hash = "e2248831cc82d3bc1d5951eb1d8e128073a8aa8593337410734befee44bb8988"
 metafile = true
 
 [[files]]
-file = "mods/minecells.pw.toml"
-hash = "ce2b38431c7794851d7d1944c1ecef2f6c8a27ec6d5e0f06999bea7c58f96575"
-metafile = true
-
-[[files]]
 file = "mods/mo-structures.pw.toml"
 hash = "f2607f6a7cdafb6fe6eb6bd90972cc658b4f72cd6c6c4f0bcecf7e323d9bb2ca"
 metafile = true
