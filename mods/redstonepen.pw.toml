@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/DwE83ioX/versions/VOS3vUrB/redstonepen-1.19.2-fabric-1.2.18.jar"
-hash-format = "sha512"
-hash = "b9542b82353b5cf3227df5b36e45d2b549464196ef353756a733c6f8fef35817f104e6da3b7cf53f3a2f787c5a8316866ac72d2428963daf3ea3116fe4713089"
+hash-format = "sha256"
+hash = "2a64782bc7c39a3d79b1cf9df8d688f7665d0cc7c72f8ea39dbdc98db0d73d0c"
 
 [update]
 [update.modrinth]

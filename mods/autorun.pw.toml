@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/2i7tg1Wv/versions/1.19.X-0.5.0/autorun-1.19.X-0.5.0.jar"
-hash-format = "sha512"
-hash = "1e7afb51333b2ee565051fa1ad66129b50e758b0aac7d5ed15f29425b13cff42df46f1b21679441b1b086fb973d335330a09b6c985e161815282efdeb4a0469a"
+hash-format = "sha256"
+hash = "49eff08cde0ce8f2aca8196f8199ee668c79cfd958c248e737b997b32746f484"
 
 [update]
 [update.modrinth]

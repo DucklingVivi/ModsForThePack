@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/kNxa8z3e/versions/m52BKTGA/mcw-doors-1.1.1fabric-mc1.19.2.jar"
-hash-format = "sha512"
-hash = "e43f96a33d3b1dab77cadece63ea793df5923a6276daba12917d51a3da32a4a36c5b0d2b934af815172e5f2e22a6e53679c3e730c285f4ad11fa9edbd0ddc409"
+hash-format = "sha256"
+hash = "134aba7dde2a6d792b65f68ff6c37d08ac692e6123d600db3a77a61a83da4908"
 
 [update]
 [update.modrinth]

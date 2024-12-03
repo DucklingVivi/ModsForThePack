@@ -3,8 +3,8 @@ filename = "paucal-fabric-1.19.2-0.5.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "429dbbae298ebca0e7c51ca1c0bfdd07dcbf8271"
+hash-format = "sha256"
+hash = "f32eea6d0a90d08507648e64f35c2c79c87c7227bb40c90ab231cdab42fa2d85"
 mode = "metadata:curseforge"
 
 [update]

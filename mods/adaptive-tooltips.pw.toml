@@ -3,8 +3,8 @@ filename = "AdaptiveTooltips-1.0.0-fabric-1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3d81ac78617293db40c487f1744f45726909c215"
+hash-format = "sha256"
+hash = "54db14fa0a617b6c8f5b5fe4347bb988dac88f81778915a4802553113af90a86"
 mode = "metadata:curseforge"
 
 [update]

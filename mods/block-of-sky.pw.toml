@@ -3,8 +3,8 @@ filename = "blockofsky-quilt-1.19.2-0.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ff746a3e8c56d356da54476bdb8871bb39900648"
+hash-format = "sha256"
+hash = "927521539bab381d4208fa3720ee9f95d9c1c6c62187d431c823fca62926af1d"
 mode = "metadata:curseforge"
 
 [update]

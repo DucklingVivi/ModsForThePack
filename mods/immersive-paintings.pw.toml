@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/6txNkua3/versions/sIfgYkdd/immersive_paintings-0.6.7%2B1.19.2-fabric.jar"
-hash-format = "sha512"
-hash = "b5ed18fb85b2931a13d9c752da859a8188cefea191702f1be9c77acf6521cff81503444c48d2e56d4c3498e9045d3d8f0130d9d6c9ace1bfab0f47d563af6ecd"
+hash-format = "sha256"
+hash = "4adcab07082c9accc6ec88645a324ba0418a57d400c4eb1972568030e689dc5e"
 
 [update]
 [update.modrinth]

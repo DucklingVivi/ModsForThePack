@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/3ufwT9JF/versions/zXU0zDes/ad_astra-fabric-1.19.2-1.12.7.jar"
-hash-format = "sha512"
-hash = "ac1ef85661451e48622a51419a736d7b28bcfaa98deb48a0d696ace414228ba9d7320b01837b34ac47c98bac8bdf9bf98ab77098cdd1ee13881e455c62416545"
+hash-format = "sha256"
+hash = "06fe92f0f1ce600db70e0455f9029483b1da267d65165703062ac219686c550f"
 
 [update]
 [update.modrinth]

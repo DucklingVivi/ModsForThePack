@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Yl6uPZkr/versions/Er9upykM/blahaj-quilt-1.19-0.3.0.jar"
-hash-format = "sha512"
-hash = "f5c619907d7dc35efbc4348b5b572aa778091d2000a872e144c12e8e6934918b6ff878cb624e693762f3d72cf3e52dd706b3f23bfcf63d434f16f545864df8ae"
+hash-format = "sha256"
+hash = "392e974fe676668d29165c08d46f271b686d754b62f68da04014b813f635dff1"
 
 [update]
 [update.modrinth]

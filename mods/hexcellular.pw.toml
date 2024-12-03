@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/mN6t9Bt4/versions/RHLcNclH/hexcellular-1.0.2.jar"
-hash-format = "sha512"
-hash = "580c4d2dea49f03f14dfe8cb36029b2218110bf1ca03d01c329f819f2ae23acc4335ea9c1f83035aac688176887ff0366aee9620e73706c3fac0e1225c513bc2"
+hash-format = "sha256"
+hash = "5ed96ad97eb33c473366a91441f6ea8b69e0f7262a06f6de72b0200c525d6fb9"
 
 [update]
 [update.modrinth]

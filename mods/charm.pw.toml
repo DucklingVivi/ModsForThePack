@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/pOQTcQmj/versions/nGnXDTky/charm-fabric-1.19.2-4.4.4.jar"
-hash-format = "sha512"
-hash = "1bf9cda7433c7038dcdd2ccc6fc43b467c67cc98c99d0c2a24b08b4196340a95d50a96fdbf5aa5c069d1c154766ae621b5464522058620190211eb6251b47d43"
+hash-format = "sha256"
+hash = "7a2756b51ed8875f6ca12cbabbf2208f66eb63909589cfa087159116a315e808"
 
 [update]
 [update.modrinth]

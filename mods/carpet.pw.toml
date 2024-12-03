@@ -3,8 +3,8 @@ filename = "fabric-carpet-1.19.2-1.4.84+v221018.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9a88c3a004b15b1f776c988d8eae1cc191b4fbee"
+hash-format = "sha256"
+hash = "da593278fd653399661e2c58814909b52ea04ac117abc2f811b45420438ed790"
 mode = "metadata:curseforge"
 
 [update]

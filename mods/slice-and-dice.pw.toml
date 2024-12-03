@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/GmjmRQ0A/versions/UdU72k1h/sliceanddice-fabric-2.6.1.jar"
-hash-format = "sha512"
-hash = "1dcc5faf7701496ecc0c42bb5dc51cdb3f8d084573dfcdc8772cc076ca0d4e703dc5f9b695eb471f8decb4cd68dac848a2fd523e2675c1bdff5fca647297e6f1"
+hash-format = "sha256"
+hash = "0d7e57e3ac5a3362c34a7e36f375b37d2b880bfbd41f92ab94db739646c372e6"
 
 [update]
 [update.modrinth]

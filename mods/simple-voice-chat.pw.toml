@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/flpYWQ0C/voicechat-quilt-1.19.2-2.5.26.jar"
-hash-format = "sha512"
-hash = "2b2610c11e4d4af2ae34cbe68dc69a53c7c813f11064109e30c8d9a0add947369ba181ab09de60dfcc18ef601dd988fb1e261f8fbf723b284f3483e7e28d2f94"
+hash-format = "sha256"
+hash = "d3b746b6deb8a212d60d63aa40417b9b6ca911304b87d7afbb2e442d684cd5d1"
 
 [update]
 [update.modrinth]

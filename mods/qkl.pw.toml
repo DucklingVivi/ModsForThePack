@@ -3,8 +3,8 @@ filename = "quilt-kotlin-libraries-1.0.2kt.1.8.0flk.1.9.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7f68f8252573b5b76e1bdb30a8fe31f8237ddf83"
+hash-format = "sha256"
+hash = "3b29f2c0650b0a904efc564c3c1b6300de1ec9662320757daf33176062b59a44"
 mode = "metadata:curseforge"
 
 [update]

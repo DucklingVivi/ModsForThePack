@@ -3,8 +3,8 @@ filename = "EnderDragonEggRespawn-2.0.0_1.19.2-Fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "69814ef3b26ccb3e51e0fab31e8c7ca4fe79f13b"
+hash-format = "sha256"
+hash = "4189c92d6c6cd70a6cafe70e136277b432e33bbd1ed77dd37a212ba7a8c87477"
 mode = "metadata:curseforge"
 
 [update]

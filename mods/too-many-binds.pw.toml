@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/548fsydf/versions/PxnbyXpO/toomanybinds-0.3.3%2B1.19.jar"
-hash-format = "sha512"
-hash = "be84dbeece88a1877e8271c930fc30b9df9a9a5b4bf6b4216bf35b6fa02aea21caa926f9044ced5c975a62c5f9d2efcccda35cc94b27c12f6056feaa2f152fe0"
+hash-format = "sha256"
+hash = "35f0d0ea79a50d6a00adac3eba8702d2f1103dd890f695f3d61988aef5c6eceb"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/W6ROj0Hl/versions/uXsqpUoc/iChunUtil-1.19.2-Fabric-1.0.0.jar"
-hash-format = "sha512"
-hash = "472842f6e21318b1e5a4fb4b4247f61832165ec437fa881f4fd7cedd670560b876c2a7800a38b68a9e2ebc8f586a649f1ddb7c04a04ed8bf55def8bad2994441"
+hash-format = "sha256"
+hash = "7d0b1747ab1a6017383a08ec5aee4e49b207c686ff88799c9f4575cb835e9d7b"
 
 [update]
 [update.modrinth]

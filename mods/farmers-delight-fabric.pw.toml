@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/4EakbH8e/versions/vzoppMtR/farmers-delight-fabric-1.3.10.2.jar"
-hash-format = "sha512"
-hash = "58ed55c2094df7b8c51df251fba93ed54c46ab649a7d04c695604ef18a1cf19815c8c9219535b3c24e65481ee4b14d84e42e99832b6bbc16a9dff952a5f77a4b"
+hash-format = "sha256"
+hash = "2660e38e19de77160ab98a99f3b39c3e6de6b56f6f125c90530ce96d874fa38c"
 
 [update]
 [update.modrinth]

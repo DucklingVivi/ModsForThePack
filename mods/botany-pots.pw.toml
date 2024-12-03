@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/U6BUTZ7K/versions/e0FkzpCE/BotanyPots-Fabric-1.19.2-9.0.44.jar"
-hash-format = "sha512"
-hash = "f60f9e3681df1a3b35949950facb443736ebe54cc97fd0a2c854564507059f44ab10234875bc6d64ff759acd9a349356d164e4095a07234431715a7160396616"
+hash-format = "sha256"
+hash = "50eb88d0c2abc4242ee0833157ccd18a10ec07d054023d3cbd563a5b09bb804c"
 
 [update]
 [update.modrinth]

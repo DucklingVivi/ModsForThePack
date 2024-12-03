@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/P4Xi5huA/versions/vltOc2Dl/Runelic-Fabric-1.19.2-14.1.4.jar"
-hash-format = "sha512"
-hash = "e8d3639ddcdcee74aad4dbdb1c4380ba771b55a99b1e7e30b499c930f983846c9062cb8b450b478e511e615850f7fdcf7d36dff4a6e189b6a05a428e2202a9b9"
+hash-format = "sha256"
+hash = "12617d0e59319f257521f7290e21a4498467f6d27d945a13ea907a7bd301ce03"
 
 [update]
 [update.modrinth]

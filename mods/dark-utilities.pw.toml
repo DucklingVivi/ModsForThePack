@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/CkqTAIaP/versions/ezGfYQHp/DarkUtilities-Fabric-1.19.2-13.1.9.jar"
-hash-format = "sha512"
-hash = "308ea32ccc04308a872e737bb0c8e42a9e65fdf2c4451522f2a91c50dfdebb2301a5feae04b44940b001230a16ed3a758afaa2077b708154cebb96e2e6f8f61a"
+hash-format = "sha256"
+hash = "53977e8511bd1c93b8a0e214ff45b3c18f95e3afeba26d1cf36c5eeb9916a081"
 
 [update]
 [update.modrinth]

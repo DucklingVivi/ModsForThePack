@@ -3,8 +3,8 @@ filename = "chunkloaders-1.2.8a-fabric-mc1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7d5a14ec48162022748a5fdb977d058e63d4996b"
+hash-format = "sha256"
+hash = "2f7b842125557378bc18091ac7e67fb7cef4756935e0792d0696867bd3a24d79"
 mode = "metadata:curseforge"
 
 [update]

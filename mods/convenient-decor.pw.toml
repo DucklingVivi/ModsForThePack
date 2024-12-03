@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gMWAhU1n/versions/heg2WqKa/convenientdecor-0.2.0.jar"
-hash-format = "sha512"
-hash = "9b329302c715c829cf8c52cdf763447381fdeec0df2e536c3eb3bbc2f1bdcc02e9b85c8674f22a7ee4882f0de986fbf5599efe8c8712a53b07b125727dbacca7"
+hash-format = "sha256"
+hash = "bcd8ff3dd2d6100116bd4a0825ee5daa3c3f0bc1e78740678a6dc7cdc436a7ff"
 
 [update]
 [update.modrinth]

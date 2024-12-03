@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/1bokaNcj/versions/iM75NCJr/Xaeros_Minimap_24.6.1_Fabric_1.19.1.jar"
-hash-format = "sha512"
-hash = "9b53ba4c79c03366ee29831dd145cf90d6aee759383d6127cbee67b25fbdaedeb3aff440d7f1c193781e7410a5c905620a72ce2a323ea77ab83c831d8bbcbb36"
+hash-format = "sha256"
+hash = "263348c9f606fbb91cc2b27f3ffca02301d71da094368ce035ba1ff27a203f45"
 
 [update]
 [update.modrinth]

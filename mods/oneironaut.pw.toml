@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/HfBEa4fW/versions/IyMPJaLQ/oneironaut-fabric-1.19.2-0.3.4.jar"
-hash-format = "sha512"
-hash = "e7dda98c49c940ff1981f95ceea15f1cd38d25fad8ab050d0a4447f53baa083693e4c186fde1b168361ce078b8551fb8d861bf8f324f97687bb8e8b91129a646"
+hash-format = "sha256"
+hash = "2c1a52e683e2e12fcfa088a956e467cad3b4891f5bf8ed4edc0d7a2f124110b0"
 
 [update]
 [update.modrinth]

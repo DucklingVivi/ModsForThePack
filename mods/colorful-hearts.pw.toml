@@ -3,8 +3,8 @@ filename = "colorfulhearts-fabric-1.19.2-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2c4c29fd3bba0f4b82553d3d2a4212b5cfc78917"
+hash-format = "sha256"
+hash = "9ac6c5dab300fab0f41fae7ffae4de8b0fc1115e95caa4cdab89bef9f1b87060"
 mode = "metadata:curseforge"
 
 [update]

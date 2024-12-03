@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/tagwiZkJ/versions/Mq4la1Hv/polymorph-fabric-0.46.6%2B1.19.2.jar"
-hash-format = "sha512"
-hash = "ade99f15295a78348a09ec6ec895ba83383548de9c87848e719d01c2d66ae64c4f8dc4e1762eab87302e162a44ad61bc8c8604711df5885dc3f11a0ade6d4efc"
+hash-format = "sha256"
+hash = "049c0adb2c2074ccd1fed5a41a7b86c00db32f6b8baa09522e466321c9784e02"
 
 [update]
 [update.modrinth]

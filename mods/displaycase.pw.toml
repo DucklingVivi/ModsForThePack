@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/cSIsh4gX/versions/WUdXR9uN/Display%20Case-quilt-1.19-1.0.7.jar"
-hash-format = "sha512"
-hash = "1220c6f7ca61270833206a97ac62178434771650486d7b2706b3b6da275c83b30bd84cfdf68ba45d434e8a5bcc4efcc023bd3d42adca51e67794142510df74b2"
+hash-format = "sha256"
+hash = "1a5ff2886de93593f720594a8a3329e35bbdf34547f7f3a71dfe0b1d9177b7f9"
 
 [update]
 [update.modrinth]

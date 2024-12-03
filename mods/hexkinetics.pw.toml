@@ -5,8 +5,8 @@ pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/8FVr3ohp/versions/XpOc6KTa/hexkinetics-fabric-1.19.2-0.7.2.jar"
-hash-format = "sha512"
-hash = "daf87a091df41f8296b1370fccaf20739458e9fb706ca639e9b9931c7d701f8ddcf67dff2429414d64e210ca5dd9c87386e820cae912c8c6da533d6ff6cdf9c6"
+hash-format = "sha256"
+hash = "380b4f4a6e89037e6850ea31ee58c4cb7fdb952699275265efaf4f1adeb826c9"
 
 [update]
 [update.modrinth]

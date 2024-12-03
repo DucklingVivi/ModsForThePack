@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/xZxRYS0M/versions/r7Q6fu0h/watson-fabric-1.14.4%2B1.19.2.jar"
-hash-format = "sha512"
-hash = "b9a0c47c4175986e06d1d70242d30002a61678a729b31f9555e0bd32bf138cb24bc84e4e483482e2903310a778b8186d0506a4bd29bc8393251fa835208d0546"
+hash-format = "sha256"
+hash = "21a1063545b3ee2c15648aefec1a00f41a1b3dc63a48d577ac3c64d138a24943"
 
 [update]
 [update.modrinth]

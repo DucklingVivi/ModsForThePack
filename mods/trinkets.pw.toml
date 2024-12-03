@@ -3,8 +3,8 @@ filename = "trinkets-3.4.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "83deb9f7ab28737a5d27a57e49fe105e9053804c"
+hash-format = "sha256"
+hash = "5807e380000c8e0ccfa3a29d359819d557600b3bb4dd0890e9053c846e3fecd8"
 mode = "metadata:curseforge"
 
 [update]

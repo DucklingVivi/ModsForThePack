@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2u6LRnMa/versions/G4dJhBjP/botarium-fabric-1.19.2-1.9.2.jar"
-hash-format = "sha512"
-hash = "9778654d411b871a0003a6cb218cf38f9442a3da4d9d863d8778450440543a590bba2bd61c81f741c513e3258ec0a48e4d80fa0f401ec142a83680c99a7f2f21"
+hash-format = "sha256"
+hash = "650ee5e7b0bd7b1e4382dc55f40e693cc6aeb6466bc1521b7ddae992b098d1f3"
 
 [update]
 [update.modrinth]

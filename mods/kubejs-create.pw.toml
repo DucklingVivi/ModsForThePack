@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/T38eAZQC/versions/HJ0xIlkM/kubejs-create-fabric-1902.2.4-build.46.jar"
-hash-format = "sha512"
-hash = "7f1a343d88ae6929c9b408926568b21b1e51b049720057ba6ec2cd21ced318a5fa14f07547d13bb8b6d8681e95a274b2ce97bb6178efaae2836fcaaece73ba77"
+hash-format = "sha256"
+hash = "a0825c553909eec9fc50a636a9f7e3c38123b66bdd00474defc1f5276d04fdac"
 
 [update]
 [update.modrinth]

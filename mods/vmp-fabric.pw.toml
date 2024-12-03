@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/wnEe9KBa/versions/orfeALA0/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.7.30-all.jar"
-hash-format = "sha512"
-hash = "6e881f2592de42c82ba11aa9749a62670931b8ff0b414ba21b22035fa350dbb873ebb487647bb495c999246b8c7edc5997654b501b861937ddfc4e6135f12ec4"
+hash-format = "sha256"
+hash = "b9bbb7aeccaa51e5b08bda4dcb583deec6e6768c15887006f9043bf9e845875e"
 
 [update]
 [update.modrinth]

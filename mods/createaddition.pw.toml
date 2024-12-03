@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/kU1G12Nn/versions/sAZf2bij/createaddition-fabric%2B1.19.2-1.2.3.jar"
-hash-format = "sha512"
-hash = "ea0f97fb970d3b0b5864129109af48b65c0ce72fc20abdb36086e0455714e48c07e94680b524fd9f1bb7c890ffd51bfceb1a19b9bb231e31dd3f82796bb1c5e2"
+hash-format = "sha256"
+hash = "934d817b49336983a62ca5373e849d64fd08f0dbcb6e902843299d9fd061c868"
 
 [update]
 [update.modrinth]

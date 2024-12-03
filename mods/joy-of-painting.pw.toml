@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/YOs4tZea/versions/qFVE2XIB/xercapaint-fabric-1.19.2-1.0.3.jar"
-hash-format = "sha512"
-hash = "f554638929fa005c33965224f506353574ea1923735aad9bb2a8db0a642464a93eee05d290a89de95e5de2986e917960e11538a44bb9a8fd36781868f1210074"
+hash-format = "sha256"
+hash = "6431592d51e99b75488de693c8007e77440fa45909b194693ae5947d3da57913"
 
 [update]
 [update.modrinth]

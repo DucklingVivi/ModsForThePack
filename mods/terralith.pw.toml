@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/8oi3bsk5/versions/FOe2l0tx/Terralith_1.19.3_v2.3.12.jar"
-hash-format = "sha512"
-hash = "2a9b0f6496aee6ad25888ab4b463b5189eb06030c1b73dc70601abbfb053d9f7af140dfea908bf4011fcf9b50e8d1d4f0e42db1650ee40db56bcb3fef38b8fd1"
+hash-format = "sha256"
+hash = "4f74497c92b224a12be231b32c50e55db41e6051ebba5d87ce63aad78204b663"
 
 [update]
 [update.modrinth]

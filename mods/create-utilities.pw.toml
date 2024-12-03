@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/PRHeWeBs/versions/KsA6NKVL/createutilities-0.3.0%2B1.19.2.jar"
-hash-format = "sha512"
-hash = "b7d0149395406801a33a7a43bc797f1e897fbc5baaef4dceef85bd7b7ad0a7f4004a5a829ecbf40857bd40b5d635e4ad9126c93bfa115dcb3b8dbbebf873e205"
+hash-format = "sha256"
+hash = "b8729a7b23ec6e871f6a1fea458e4828e47deccc5dd98e9118a7de9a939511c2"
 
 [update]
 [update.modrinth]

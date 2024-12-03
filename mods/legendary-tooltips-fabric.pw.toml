@@ -3,8 +3,8 @@ filename = "LegendaryTooltips-1.19.2-fabric-1.3.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "336eb5f836465300a43b4d0a24f9dcf5f1e3b146"
+hash-format = "sha256"
+hash = "16e52b2196367476153f1864b0af2d953696ba2b6289d4d053f59c2556828d4e"
 mode = "metadata:curseforge"
 
 [update]

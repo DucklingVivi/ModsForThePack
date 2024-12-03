@@ -3,8 +3,8 @@ filename = "mostructures-1.4.3+1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "66acda08dd33a97e2611902e38d421dd429b398d"
+hash-format = "sha256"
+hash = "32d68da6ebb293c491deadb808757dc7456f547d2ca9e06db6fe941da264c499"
 mode = "metadata:curseforge"
 
 [update]

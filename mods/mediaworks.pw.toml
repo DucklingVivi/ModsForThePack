@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2kZJcMa9/versions/ptkTUdd6/mediaworks-fabric-1.19.2-1.0.7.jar"
-hash-format = "sha512"
-hash = "18905c80f7e2f66669ca676c7763074697624a695404ed0d21388be977d9103021edd70d858ae254baae39474bb7a2004445ad02ddad289dd8c4e86d4364b4f5"
+hash-format = "sha256"
+hash = "8954c05310a3d450871951a4ce4f36695fc35c587c8a58a80a11243b88008d4c"
 
 [update]
 [update.modrinth]

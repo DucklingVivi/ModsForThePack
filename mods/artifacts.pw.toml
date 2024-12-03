@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/7.1.1%2Bfabric/artifacts-7.1.1%2Bfabric.jar"
-hash-format = "sha512"
-hash = "a3d6e789210ab2e3b510c824179bdb9b1b7f10a05e9a18445a7aee6eee68ebe88261cb590a6ed556beb6e722a8c015c008bf4225e30df8b8b5f87e2eea11e428"
+hash-format = "sha256"
+hash = "d41ea594c2b6e7e2d394c6d3f7cb2117435678ebd690ad2bfa3a73bc175e87c2"
 
 [update]
 [update.modrinth]

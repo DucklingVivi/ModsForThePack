@@ -3,8 +3,8 @@ filename = "Prism-1.19.2-fabric-1.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "21ff90e99c357f407cf170d36bc5387e01d88706"
+hash-format = "sha256"
+hash = "5a36eb1f8b7ce51b3c009a1c31afb395ca8904a3055e323dbfde145a1c855028"
 mode = "metadata:curseforge"
 
 [update]

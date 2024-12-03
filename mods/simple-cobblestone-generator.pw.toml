@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Q01k2hiP/versions/1aQeDJ2b/simple-cobblestone-generator-1.1.11.jar"
-hash-format = "sha512"
-hash = "400ad7892a9697f0862473a4c7e0bb21756b8841bfafdb1f4cbe68aa8aeb28321e603d66bc72576063379e2f34a91d16280c50a386dbb566376164bcd58c3ea7"
+hash-format = "sha256"
+hash = "855b5f0cf2d136072c17b617d692f93c2828987ae2a1b09cc80a334cf2558fb7"
 
 [update]
 [update.modrinth]

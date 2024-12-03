@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rLLJ1OZM/versions/Zf3gU5xL/coroutil-fabric-1.19.2-1.3.6.jar"
-hash-format = "sha512"
-hash = "c23a7fca2b3767a88addbfeee112a3f7c549d7afbafadb5fe7f61e5fdf276744e8a05b456df59ccd9a7fe79608b39e80091de27052a6993f390c63576cea1e4a"
+hash-format = "sha256"
+hash = "af774df09314e742356ac17ee8d0f9d86c3b4b1855e44241cf96df5755c50a60"
 
 [update]
 [update.modrinth]

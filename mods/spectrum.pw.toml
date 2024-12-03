@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/cZcvzTh4/spectrum-1.7.12-deeper-down.jar"
-hash-format = "sha512"
-hash = "d3841c8f5a4d1ba2a9a9383d49622c51d6e2e8086937bc7f5e86e7bff857a0ab7a6928eb0986c9f28a2f1355a4db3072463a417c256b80904324630e64b7be92"
+hash-format = "sha256"
+hash = "a2e40a30fb400abf2a51de17215adc29b0bda2402fcc296fa218f8203febefca"
 
 [update]
 [update.modrinth]

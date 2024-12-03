@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/C7I0BCni/versions/X8ngoNI8/mcw-windows-2.3.0-mc1.19.2fabric.jar"
-hash-format = "sha512"
-hash = "ed9fc873c37d60ca4e022005e27d67710b007e336a17ab2d3b785bc3a88e53787b4daa2bb94424c648fedab81972bfd5bbfdfe7837f6e79270006f60eb6ff7f4"
+hash-format = "sha256"
+hash = "8a776af539dc05279305697a6ba7ed6ab78fa89edecf83c728565ed482cd8438"
 
 [update]
 [update.modrinth]

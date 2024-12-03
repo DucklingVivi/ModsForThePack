@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/4KWv7wbN/versions/g3vvzwfm/chisel-1.4.7%2B1.19.2.jar"
-hash-format = "sha512"
-hash = "ab6ee1f3528059c7d25d313764d66b636b7ffa290ef0637d595037b01d617a25de82b0628966dc9c0cf99e968227b070e649ffd3d35cc3b4588f7ef15a833b3d"
+hash-format = "sha256"
+hash = "55686d5d7ec6175d3c6005e7ac143c94efd4feaa60b75f641ac3fd1f7e1b146f"
 
 [update]
 [update.modrinth]

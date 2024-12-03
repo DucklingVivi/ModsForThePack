@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/545hUrw9/versions/XoswqESG/Applied-Botanics-fabric-1.4.6.jar"
-hash-format = "sha512"
-hash = "2b63cd70447255f84b6d3bd2a7cce0a07cd7bbba8d898b76740c56248f007bbc6abfa8563560ac31245fafa6c80a983fbb9f04d6164f1daec78b16f0a3db2dae"
+hash-format = "sha256"
+hash = "aaab400b4e41ad0c7ea644536b7b1cdc76426db97a4b6eedf63a568f68910917"
 
 [update]
 [update.modrinth]

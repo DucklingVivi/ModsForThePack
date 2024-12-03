@@ -3,8 +3,8 @@ filename = "letsdo-brewery-fabric-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c41ea83642f9708203704ce0a6b336318e9f1330"
+hash-format = "sha256"
+hash = "9752418273104e3766a7f61da0fb7abd3d0d9200675253565d1b9d538118598a"
 mode = "metadata:curseforge"
 
 [update]

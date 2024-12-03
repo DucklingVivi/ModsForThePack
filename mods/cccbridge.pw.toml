@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/fXt291FO/versions/ZQr9o4rM/cccbridge-mc1.19.2-fabric-v1.5.1.jar"
-hash-format = "sha512"
-hash = "4d1ac84ef1916add2306fa57e9aa8d8d4d02af11bda1e4ac6bf5fd74faf658b58a5969dd58a3d229cef1ba94f273d20d3b3fba1fc499b7a65104b65dc6e774e6"
+hash-format = "sha256"
+hash = "b71d9ea18a7adab82abd487b26434559c3b99913e824d1982acac0a31a8e7c43"
 
 [update]
 [update.modrinth]

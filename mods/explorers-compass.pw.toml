@@ -3,8 +3,8 @@ filename = "ExplorersCompass-1.19.2-2.2.0-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ddb21231caa052f2ef5618366ca7e7242c751e4d"
+hash-format = "sha256"
+hash = "e7b34c165a6f91a72f7ba4c92120c67a3c92a34dfa5da80030dea5730a3425f1"
 mode = "metadata:curseforge"
 
 [update]

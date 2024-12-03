@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/JOlyQnh1/versions/dDLXan9i/vitalize-fabric-1.19.2-1.1.1.jar"
-hash-format = "sha512"
-hash = "4b2ab3481246ba73b24e6a5dfcf7be2e647da1f29bdfa3e77c60bdf7e21c4833655775dfd806a272d772a7c890fe43ae24b450791510cef229f53d1ba5478e37"
+hash-format = "sha256"
+hash = "57ae3bdc943e009a51519e8c150950042094e7335b8b87caa6cde1d65a4cf43f"
 
 [update]
 [update.modrinth]

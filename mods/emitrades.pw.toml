@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/j2HhbEE7/versions/YnCegFtP/EMITrades-fabric-1.0.2%2Bmc1.19.2.jar"
-hash-format = "sha512"
-hash = "f7952ee8e39c9753bcdbb91bcc5f7958e76efffa1193f56a093c48bbe21be395438cd44905cc20f62697979968d733c7cb24468c4e8dba2f61f711a14a368a5e"
+hash-format = "sha256"
+hash = "aee55c91389a95f8961587d78edcf1c8f58925844c579002dc6f0c730392c41f"
 
 [update]
 [update.modrinth]

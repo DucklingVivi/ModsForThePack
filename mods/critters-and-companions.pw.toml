@@ -3,8 +3,8 @@ filename = "crittersandcompanions-fabric-1.19.2-2.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "803e2e1d55fc3c4e32a205e70d53816e078f8c26"
+hash-format = "sha256"
+hash = "0f39b7d3199ce40f1b22cf3adccb4fb7fc75438ce24eda700585c1abbacad586"
 mode = "metadata:curseforge"
 
 [update]

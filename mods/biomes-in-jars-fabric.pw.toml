@@ -3,8 +3,8 @@ filename = "biomesinjars_fabric_1.1.3_MC_1.19-1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0e501b0deb77f1bea77f9fb8980c4b5366d7094d"
+hash-format = "sha256"
+hash = "760dba496e1ddf4f80c0ba95298613c1a75f68579ae4568ea01033a51d6c6ea9"
 mode = "metadata:curseforge"
 
 [update]

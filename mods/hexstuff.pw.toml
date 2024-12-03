@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/7ifMBiKd/versions/KkMcudXt/hexstuff-fabric-1.19.2-0.3.0.jar"
-hash-format = "sha512"
-hash = "b44d2fb0b23220a80de08e7b66c5112489677616677f4c055975e03ab27baafe0855bcac3d1d57e394b79d20cff9fde1b6b468abb202ba64dfa05cf69fb553c4"
+hash-format = "sha256"
+hash = "5c63c759784ca23e3f2f258344e12cc0bacfb680c54b81025f879cec58b04c01"
 
 [update]
 [update.modrinth]

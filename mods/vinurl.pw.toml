@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/5PsMUIsq/versions/EzWyElwB/vinurl-1.1.1.jar"
-hash-format = "sha512"
-hash = "fd4de7b8fb47f5c291e9e3cc2383e13a888866bcd9f064ea314e546a3535b15afaf517be854c865631408230db0086fe6be57f91c1c04c06cda66e098530f31d"
+hash-format = "sha256"
+hash = "f446125ffd03358398fee082999fabff4154e09a3acef1fed157a71abf731775"
 
 [update]
 [update.modrinth]

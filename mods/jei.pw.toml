@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/UvRoQ1ez/jei-1.19.2-fabric-11.8.1.1034.jar"
-hash-format = "sha512"
-hash = "5acda896d7845f30cc4c597731b8fa61e6e192478e2af3a96b9510e3e4124984ebf6914ec6e151ccf3d99ac7784ba0f59c82575c315c81ac62c9af0955906cae"
+hash-format = "sha256"
+hash = "5b4158f64e257791bc1fea5b03798525d9ba5b0995a2f57d668054eadc12bdb3"
 
 [update]
 [update.modrinth]

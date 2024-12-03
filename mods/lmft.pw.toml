@@ -3,8 +3,8 @@ filename = "lmft-1.0.2+1.19-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fec743310f49ae13ff4c3c82667ecf80e767e495"
+hash-format = "sha256"
+hash = "69af0225f099bf69d2f6f09b0365615f8b2eebcb5f897272749056d3e35e6337"
 mode = "metadata:curseforge"
 
 [update]

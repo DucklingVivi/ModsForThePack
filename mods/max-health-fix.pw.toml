@@ -3,8 +3,8 @@ filename = "MaxHealthFix-Fabric-1.19.2-8.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9521e99202c084e1ce6c3bea054cd86af1592e0d"
+hash-format = "sha256"
+hash = "086b89eea4289eccd8f0f7c8b58191fc4d92b77107c6eb368366f4e4c6946019"
 mode = "metadata:curseforge"
 
 [update]

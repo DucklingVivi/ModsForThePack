@@ -3,8 +3,8 @@ filename = "endermanoverhaul-fabric-1.19.2-0.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b1030acd0ce454a1a65bded9e86a943e6cf05bfd"
+hash-format = "sha256"
+hash = "ab18d4aa3b1bda14b197a5a2a55b170e1787e8523d0142663cd4255d40095627"
 mode = "metadata:curseforge"
 
 [update]

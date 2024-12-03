@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/IwDgJLXt/versions/dLhix67M/hexresearch-fabric-1.19.2-1.0.1.jar"
-hash-format = "sha512"
-hash = "77f836ec8d7197eaefb3a17d656113330c7096c4ce4a252a87e0acbcd2467a04b61ce9d0373c62129cd5a8b0dffcc765e5d858fcdcf33cb5c73a3872fa4425e4"
+hash-format = "sha256"
+hash = "57419f7666e6900bbc5d88e00e61a6b2de919eb8324525370da2fa6fd6763ceb"
 
 [update]
 [update.modrinth]

@@ -3,8 +3,8 @@ filename = "HexJS 1.1.1 [FABRIC].jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2f63485e2dd398f36d77e04da1de90ab0986fa16"
+hash-format = "sha256"
+hash = "97181511f545227cf960c75efdc926e5ac973cce006d9bca650e379379383b0e"
 mode = "metadata:curseforge"
 
 [update]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ResbpANg/versions/W8TwPNaE/createoreexcavation-fabric-1.19-1.2.3.jar"
-hash-format = "sha512"
-hash = "2112f0401633bd512f5b723835d0157f1030afa29269ac28ce1fb500e30e0ef2129f9b9744d8d989faa96e8b4aeb42e957df64c6dfb4d81cf3c5bbddb2b96d33"
+hash-format = "sha256"
+hash = "06b152599ba5e7e9ed65cca9547ed8b89f81ef0ec367fa9b18ae4282dcad5fed"
 
 [update]
 [update.modrinth]

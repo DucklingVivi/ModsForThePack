@@ -3,8 +3,8 @@ filename = "qfapi-4.0.0-beta.30_qsl-3.0.0-beta.29_fapi-0.77.0_mc-1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3bb04f8df3e69d4ce84fa7a63f6822c2547ba280"
+hash-format = "sha256"
+hash = "4d8a1aa65b2cb34c1a0beff6767677e7346abe59a60a50ba8f55f5f824de4474"
 mode = "metadata:curseforge"
 
 [update]

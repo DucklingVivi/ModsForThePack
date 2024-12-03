@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/TPAYeAOc/versions/vlidCmeD/deathlog-0.2.11%2B1.19.jar"
-hash-format = "sha512"
-hash = "d37dddf7900a5e3fd8423a7613e087a7790fec225fa328db037edfe95e198296e4824c94e7caa3871ce9f52330004c4a11bf659f3cca04daac09211017c6d1a4"
+hash-format = "sha256"
+hash = "02ba9fd82856a35a8e794bdae848e42002a79defffb9936801cc0dcd10176d8b"
 
 [update]
 [update.modrinth]
